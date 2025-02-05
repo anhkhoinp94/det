@@ -83,6 +83,7 @@ func main() {
 
 			if input == text {
 				fmt.Println("Congratulations! You've typed the text correctly.")
+				speak(text)
 				break
 			}
 		}
@@ -105,4 +106,13 @@ func clearScreen() {
 	cmd := exec.Command("cmd", "/c", "cls")
 	cmd.Stdout = os.Stdout
 	cmd.Run()
+}
+
+func speak(text string) {
+	cmd := exec.Command("tts", text)
+	err := cmd.Run()
+	if err != nil {
+		fmt.Println("Error putting the system to sleep:", err)
+		return
+	}
 }

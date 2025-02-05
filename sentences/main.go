@@ -59,6 +59,7 @@ func main() {
 		clearScreen()
 		printText(text, input)
 		speak(text)
+
 		// Set the terminal to raw mode to capture each keystroke
 		oldState, err := terminal.MakeRaw(int(os.Stdin.Fd()))
 		if err != nil {
@@ -85,7 +86,7 @@ func main() {
 
 			if input == text {
 				fmt.Println("Congratulations! You've typed the text correctly.")
-				go speak(text)
+				speak(text)
 				break
 			}
 		}
