@@ -83,6 +83,7 @@ func main() {
 
 			if input == text {
 				fmt.Println("Congratulations! You've typed the text correctly.")
+				fmt.Printf("%v paragraphs left\n", len(paragraphs)-len(usedIndices))
 				speak(text)
 				break
 			}
