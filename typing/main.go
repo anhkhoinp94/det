@@ -14,7 +14,7 @@ import (
 )
 
 const (
-	white  = "\033[37m"
+	white  = "\033[38;5;237m"
 	yellow = "\033[33m"
 	reset  = "\033[0m"
 )
