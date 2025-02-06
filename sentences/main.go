@@ -103,7 +103,7 @@ func printText(text, input string) {
 	boldText := text[:utf8.RuneCountInString(input)]
 	lightText := text[utf8.RuneCountInString(input):]
 
-	fmt.Printf("%s%s%s%s\n", yellow, boldText, white, lightText)
+	fmt.Printf("%s%s%s%s%s\n", yellow, boldText, white, lightText, reset)
 }
 
 func clearScreen() {

@@ -106,7 +106,7 @@ func main() {
 func printText(text, input, mean string) {
 	boldText := text[:utf8.RuneCountInString(input)]
 	lightText := text[utf8.RuneCountInString(input):]
-	fmt.Printf("%s%s%s%s\n", yellow, boldText, white, lightText)
+	fmt.Printf("%s%s%s%s%s\n", yellow, boldText, white, lightText, reset)
 	if mean != "" {
 		fmt.Printf("%v \n", mean)
 	}
