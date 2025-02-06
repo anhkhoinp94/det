@@ -41,6 +41,9 @@ func main() {
 	}
 
 	rand.Seed(time.Now().UnixNano())
+	rand.Shuffle(len(paragraphs), func(i, j int) {
+		paragraphs[i], paragraphs[j] = paragraphs[j], paragraphs[i]
+	})
 	usedIndices := make(map[int]bool)
 
 	for len(usedIndices) < len(paragraphs) {
