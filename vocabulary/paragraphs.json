@@ -5582,5 +5582,341 @@
     "en3": "",
     "en4": "",
     "vn1": "(nouns) đồng hóa"
+  },
+  {
+    "id": 698,
+    "en1": "diagnosis",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) chẩn đoán"
+  },
+  {
+    "id": 699,
+    "en1": "non-linear",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) phi tuyến tính"
+  },
+  {
+    "id": 700,
+    "en1": "uncover",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) khám phá"
+  },
+  {
+    "id": 701,
+    "en1": "mash",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) nghiền"
+  },
+  {
+    "id": 702,
+    "en1": "spouse",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) vợ/chồng"
+  },
+  {
+    "id": 703,
+    "en1": "fracture",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) gãy"
+  },
+  {
+    "id": 704,
+    "en1": "stir",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) khuấy"
+  },
+  {
+    "id": 705,
+    "en1": "intentionally",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) cố tình"
+  },
+  {
+    "id": 706,
+    "en1": "easygoing",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) dễ chịu"
+  },
+  {
+    "id": 707,
+    "en1": "brass",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đồng thau"
+  },
+  {
+    "id": 708,
+    "en1": "industrialized",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) đã công nghiệp hóa"
+  },
+  {
+    "id": 709,
+    "en1": "continual",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) liên tục"
+  },
+  {
+    "id": 710,
+    "en1": "irritable",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) dễ cáu"
+  },
+  {
+    "id": 711,
+    "en1": "indefinitely",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) vô thời hạn"
+  },
+  {
+    "id": 712,
+    "en1": "track",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) theo dõi"
+  },
+  {
+    "id": 713,
+    "en1": "unquestionably",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) không nghi ngờ gì nữa"
+  },
+  {
+    "id": 714,
+    "en1": "furthermore",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(connecting_words) hơn nữa"
+  },
+  {
+    "id": 715,
+    "en1": "likewise",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(connecting_words) tương tự"
+  },
+  {
+    "id": 716,
+    "en1": "subsequently",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(connecting_words) sau đó"
+  },
+  {
+    "id": 717,
+    "en1": "that is to say",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(connecting_words) tức là"
+  },
+  {
+    "id": 718,
+    "en1": "comparatively",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(connecting_words) tương đối"
+  },
+  {
+    "id": 719,
+    "en1": "desirable",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) mong muốn"
+  },
+  {
+    "id": 720,
+    "en1": "dreadful",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) kinh khủng"
+  },
+  {
+    "id": 721,
+    "en1": "cultivate",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) trồng trọt"
+  },
+  {
+    "id": 722,
+    "en1": "furnish",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) cung cấp hoặc trang bị"
+  },
+  {
+    "id": 723,
+    "en1": "roughly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) khoảng"
+  },
+  {
+    "id": 724,
+    "en1": "successive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) liên tiếp"
+  },
+  {
+    "id": 725,
+    "en1": "grim",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) buồn bã hoặc khó chịu"
+  },
+  {
+    "id": 726,
+    "en1": "thereafter",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(connecting_words) sau đó"
+  },
+  {
+    "id": 727,
+    "en1": "stain",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) vết"
+  },
+  {
+    "id": 728,
+    "en1": "frantic",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) cuồng loạn"
+  },
+  {
+    "id": 729,
+    "en1": "conceive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) thụ thai hoặc hình thành ý tưởng"
+  },
+  {
+    "id": 730,
+    "en1": "rot",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) mục nát"
+  },
+  {
+    "id": 731,
+    "en1": "unscrupulous",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) vô đạo đức"
+  },
+  {
+    "id": 732,
+    "en1": "sheer",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) dốc đứng hoặc mỏng và trong suốt"
+  },
+  {
+    "id": 733,
+    "en1": "notorious",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) khét tiếng"
+  },
+  {
+    "id": 734,
+    "en1": "torrential",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) sầm sập"
+  },
+  {
+    "id": 735,
+    "en1": "interim",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tạm thời"
+  },
+  {
+    "id": 736,
+    "en1": "predominantly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) chủ yếu"
+  },
+  {
+    "id": 737,
+    "en1": "omit",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) bỏ qua"
+  },
+  {
+    "id": 738,
+    "en1": "drift",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) trôi"
+  },
+  {
+    "id": 739,
+    "en1": "arbitrary",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tùy tiện"
   }
 ]
