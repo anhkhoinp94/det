@@ -59,7 +59,9 @@ func main() {
 		clearScreen()
 		printText(text, input)
 
-		speak(text)
+		go func() {
+			speak(text)
+		}()
 		go func() {
 			time.Sleep(10 * time.Second)
 			speak(text)
