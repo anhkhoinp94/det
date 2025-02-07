@@ -58,7 +58,12 @@ func main() {
 
 		clearScreen()
 		printText(text, input)
+
 		speak(text)
+		go func() {
+			time.Sleep(10 * time.Second)
+			speak(text)
+		}()
 
 		// Set the terminal to raw mode to capture each keystroke
 		oldState, err := terminal.MakeRaw(int(os.Stdin.Fd()))

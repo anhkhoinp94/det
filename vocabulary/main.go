@@ -10,6 +10,7 @@ import (
 	"time"
 	"unicode/utf8"
 
+	"github.com/schollz/progressbar/v3"
 	"golang.org/x/crypto/ssh/terminal"
 )
 
@@ -39,6 +40,8 @@ func main() {
 		fmt.Println("Error decoding JSON file:", err)
 		return
 	}
+
+	bar := progressbar.Default(int64(len(paragraphs)))
 
 	rand.Seed(time.Now().UnixNano())
 	rand.Shuffle(len(paragraphs), func(i, j int) {
@@ -85,12 +88,15 @@ func main() {
 			}
 
 			clearScreen()
+
 			printText(text, input, paragraphs[index].Vn1)
 
 			if input == text {
 
-				fmt.Println("Congratulations! You've typed the text correctly.")
-				fmt.Printf("%v words left\n", len(paragraphs)-len(usedIndices))
+				fmt.Println()
+				bar.Add(1)
+				fmt.Printf("\n")
+				fmt.Printf("\n")
 				speak(text)
 				break
 			}
@@ -110,6 +116,7 @@ func printText(text, input, mean string) {
 	if mean != "" {
 		fmt.Printf("%v \n", mean)
 	}
+
 }
 
 func clearScreen() {
