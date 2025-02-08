@@ -38,6 +38,7 @@ func main() {
 	for i := 0; i < len(paragraphs); i++ {
 		text := paragraphs[i].P
 		fmt.Println(text)
+		fmt.Printf("%v paragraphs left\n", len(paragraphs)-i-1)
 		time.Sleep(1 * time.Second)
 		speak(text)
 		time.Sleep(1 * time.Second)

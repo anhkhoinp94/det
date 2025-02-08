@@ -64,7 +64,9 @@ func main() {
 
 		clearScreen()
 		printText(text, input, paragraphs[index].Vn1)
-		speak(text)
+		go func() {
+			speak(text)
+		}()
 
 		// Set the terminal to raw mode to capture each keystroke
 		oldState, err := terminal.MakeRaw(int(os.Stdin.Fd()))
@@ -97,7 +99,9 @@ func main() {
 				bar.Add(1)
 				fmt.Printf("\n")
 				fmt.Printf("\n")
-				speak(text)
+				go func() {
+					speak(text)
+				}()
 				break
 			}
 		}
