@@ -12,6 +12,7 @@ import (
 	"time"
 	"unicode/utf8"
 
+	"github.com/atotto/clipboard"
 	"golang.org/x/crypto/ssh/terminal"
 )
 
@@ -94,6 +95,7 @@ func main() {
 			if input == text {
 				fmt.Println("Congratulations! You've typed the text correctly.")
 				fmt.Printf("%v sentences left\n", len(paragraphs)-len(usedIndices))
+				CopyToClipboard(`"` + text + `"`)
 				speak(text)
 				break
 			}
@@ -126,4 +128,13 @@ func speak(text string) {
 		fmt.Println("Error putting the system to sleep:", err)
 		return
 	}
+}
+
+func CopyToClipboard(text string) error {
+	err := clipboard.WriteAll(text)
+	if err != nil {
+		return err
+	}
+	fmt.Println("Copied to clipboard!")
+	return nil
 }
