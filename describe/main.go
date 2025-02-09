@@ -9,6 +9,7 @@ import (
 	"math/rand"
 	"os"
 	"os/exec"
+	"strings"
 	"time"
 	"unicode/utf8"
 
@@ -64,7 +65,7 @@ func main() {
 			speak(text)
 		}()
 		go func() {
-			time.Sleep(30 * time.Second)
+			time.Sleep(45 * time.Second)
 			speak(text)
 		}()
 
@@ -87,6 +88,13 @@ func main() {
 
 			if utf8.RuneCountInString(input) < utf8.RuneCountInString(text) && rune(text[utf8.RuneCountInString(input)]) == char {
 				input += string(char)
+			} else {
+				items := strings.Split(input, " ")
+				if len(items) > 1 {
+					input = strings.Join(items[:len(items)-1], " ") + " "
+				} else {
+					input = ""
+				}
 			}
 
 			clearScreen()
@@ -96,7 +104,6 @@ func main() {
 				fmt.Println("Congratulations! You've typed the text correctly.")
 				fmt.Printf("%v sentences left\n", len(paragraphs)-len(usedIndices))
 				CopyToClipboard(`"` + text + `"`)
-				speak(text)
 				break
 			}
 		}

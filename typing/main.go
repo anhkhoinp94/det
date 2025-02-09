@@ -7,6 +7,7 @@ import (
 	"math/rand"
 	"os"
 	"os/exec"
+	"strings"
 	"time"
 	"unicode/utf8"
 
@@ -57,6 +58,14 @@ func main() {
 		clearScreen()
 		printText(text, input)
 
+		go func() {
+			speak(text)
+		}()
+		go func() {
+			time.Sleep(180 * time.Second)
+			speak(text)
+		}()
+
 		// Set the terminal to raw mode to capture each keystroke
 		oldState, err := terminal.MakeRaw(int(os.Stdin.Fd()))
 		if err != nil {
@@ -76,6 +85,13 @@ func main() {
 
 			if utf8.RuneCountInString(input) < utf8.RuneCountInString(text) && rune(text[utf8.RuneCountInString(input)]) == char {
 				input += string(char)
+			} else {
+				items := strings.Split(input, " ")
+				if len(items) > 1 {
+					input = strings.Join(items[:len(items)-1], " ") + " "
+				} else {
+					input = ""
+				}
 			}
 
 			clearScreen()
@@ -84,7 +100,6 @@ func main() {
 			if input == text {
 				fmt.Println("Congratulations! You've typed the text correctly.")
 				fmt.Printf("%v paragraphs left\n", len(paragraphs)-len(usedIndices))
-				speak(text)
 				break
 			}
 		}
