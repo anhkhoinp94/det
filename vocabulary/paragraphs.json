@@ -661,7 +661,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(verbs) làm chối chịu"
+    "vn1": "(verbs) để dành, tiết kiệm"
   },
   {
     "id": 83,
@@ -3021,7 +3021,7 @@
     "en2": "",
     "en3": "",
     "en4": "",
-    "vn1": "(adverbs) Ai cũng biết rằng trái đất quay quanh mặt trời"
+    "vn1": "(adverbs) phổ thông, phổ biến"
   },
   {
     "id": 378,
@@ -6662,5 +6662,277 @@
     "en3": "",
     "en4": "",
     "vn1": "(adjectives) độc quyền"
+  },
+  {
+    "id": 833,
+    "en1": "wholeheartedly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) hết lòng"
+  },
+  {
+    "id": 834,
+    "en1": "erode",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) xói mòn"
+  },
+  {
+    "id": 835,
+    "en1": "moderately",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) vừa phải"
+  },
+  {
+    "id": 836,
+    "en1": "phenomenal",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) phi thường"
+  },
+  {
+    "id": 837,
+    "en1": "wretched",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) khốn khổ"
+  },
+  {
+    "id": 838,
+    "en1": "sympathize",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) thông cảm"
+  },
+  {
+    "id": 839,
+    "en1": "medically",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) về mặt y tế"
+  },
+  {
+    "id": 840,
+    "en1": "suspect",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) nghi phạm"
+  },
+  {
+    "id": 841,
+    "en1": "blind",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) làm mù"
+  },
+  {
+    "id": 842,
+    "en1": "victor",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) người chiến thắng"
+  },
+  {
+    "id": 843,
+    "en1": "distinct",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) riêng biệt"
+  },
+  {
+    "id": 844,
+    "en1": "strict",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) nghiêm ngặt"
+  },
+  {
+    "id": 845,
+    "en1": "religious",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) tôn giáo"
+  },
+  {
+    "id": 846,
+    "en1": "property",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) tài sản"
+  },
+  {
+    "id": 847,
+    "en1": "preach",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) giảng đạo"
+  },
+  {
+    "id": 848,
+    "en1": "hedge",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) hàng rào cây"
+  },
+  {
+    "id": 849,
+    "en1": "ruin",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) đổ nát"
+  },
+  {
+    "id": 850,
+    "en1": "transitive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) ngoại động từ"
+  },
+  {
+    "id": 851,
+    "en1": "somewhat",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) hơi"
+  },
+  {
+    "id": 852,
+    "en1": "deceive",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) lừa dối"
+  },
+  {
+    "id": 853,
+    "en1": "amuse",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) làm vui"
+  },
+  {
+    "id": 854,
+    "en1": "outer",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adjectives) bên ngoài"
+  },
+  {
+    "id": 855,
+    "en1": "liter",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) lít"
+  },
+  {
+    "id": 856,
+    "en1": "underneath",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(prepositions) bên dưới"
+  },
+  {
+    "id": 857,
+    "en1": "morally",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) về mặt đạo đức"
+  },
+  {
+    "id": 858,
+    "en1": "detect",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) phát hiện"
+  },
+  {
+    "id": 859,
+    "en1": "along",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(prepositions) dọc theo"
+  },
+  {
+    "id": 860,
+    "en1": "salesperson",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) người bán hàng"
+  },
+  {
+    "id": 861,
+    "en1": "cozy",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) vỏ bọc"
+  },
+  {
+    "id": 862,
+    "en1": "properly",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(adverbs) đúng cách"
+  },
+  {
+    "id": 863,
+    "en1": "scatter",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) rải rác"
+  },
+  {
+    "id": 864,
+    "en1": "cushion",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(nouns) gối"
+  },
+  {
+    "id": 865,
+    "en1": "conclude",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) kết luận"
+  },
+  {
+    "id": 866,
+    "en1": "quote",
+    "en2": "",
+    "en3": "",
+    "en4": "",
+    "vn1": "(verbs) trích dẫn"
   }
 ]
