@@ -64,7 +64,7 @@ func main() {
 			speak(text)
 		}()
 		go func() {
-			time.Sleep(20 * time.Second)
+			time.Sleep(30 * time.Second)
 			speak(text)
 		}()
 
