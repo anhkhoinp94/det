@@ -87,6 +87,8 @@ func main() {
 
 			if utf8.RuneCountInString(input) < utf8.RuneCountInString(text) && rune(text[utf8.RuneCountInString(input)]) == char {
 				input += string(char)
+			} else {
+				input = ""
 			}
 
 			clearScreen()
