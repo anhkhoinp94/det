@@ -50,7 +50,7 @@ func main() {
 			fmt.Println(sentence)
 			for j := 0; j < 30; j++ {
 				speak(sentence)
-				time.Sleep(150 * time.Millisecond)
+				time.Sleep(50 * time.Millisecond)
 			}
 			clearScreen()
 		}
@@ -60,7 +60,7 @@ func main() {
 		fmt.Printf("%v paragraphs left\n", len(paragraphs)-i-1)
 		for k := 0; k < 5; k++ {
 			speak(text)
-			time.Sleep(150 * time.Millisecond)
+			time.Sleep(50 * time.Millisecond)
 		}
 		clearScreen()
 	}
