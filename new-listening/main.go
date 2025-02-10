@@ -39,16 +39,16 @@ func main() {
 	for i := 0; i < len(paragraphs); i++ {
 		text := paragraphs[i].P
 
-		sentences := strings.Split(text, ". ")
+		sentences := strings.Split(text, "\n")
 		if len(sentences) > 0 && sentences[len(sentences)-1] == "" {
 			sentences = sentences[:len(sentences)-1] // Remove empty last element
 		}
 
 		// Speak each sentence 10 times
 		for _, sentence := range sentences {
-			sentence = strings.TrimSpace(sentence) + "." // Ensure it ends with a period
+			sentence = strings.TrimSpace(sentence) // Ensure it ends with a period
 			fmt.Println(sentence)
-			for j := 0; j < 10; j++ {
+			for j := 0; j < 30; j++ {
 				speak(sentence)
 				time.Sleep(150 * time.Millisecond)
 			}
