@@ -39,7 +39,7 @@ func main() {
 	for i := 0; i < len(paragraphs); i++ {
 		text := paragraphs[i].P
 
-		sentences := strings.Split(text, "\n")
+		sentences := strings.Split(text, "\n\n")
 		if len(sentences) > 0 && sentences[len(sentences)-1] == "" {
 			sentences = sentences[:len(sentences)-1] // Remove empty last element
 		}
@@ -48,7 +48,7 @@ func main() {
 		for _, sentence := range sentences {
 			sentence = strings.TrimSpace(sentence) // Ensure it ends with a period
 			fmt.Println(sentence)
-			for j := 0; j < 30; j++ {
+			for j := 0; j < 5; j++ {
 				speak(sentence)
 				time.Sleep(50 * time.Millisecond)
 			}
@@ -58,7 +58,7 @@ func main() {
 		// Speak the whole paragraph 5 times
 		fmt.Println(text)
 		fmt.Printf("%v paragraphs left\n", len(paragraphs)-i-1)
-		for k := 0; k < 5; k++ {
+		for k := 0; k < 10; k++ {
 			speak(text)
 			time.Sleep(50 * time.Millisecond)
 		}
