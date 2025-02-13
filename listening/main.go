@@ -1,9 +1,9 @@
 package main
 
 import (
+	"bufio"
 	"encoding/json"
 	"fmt"
-	"math/rand"
 	"os"
 	"os/exec"
 	"time"
@@ -28,14 +28,14 @@ func main() {
 		return
 	}
 
-	rand.Seed(time.Now().UnixNano())
-	rand.Shuffle(len(paragraphs), func(i, j int) {
-		paragraphs[i], paragraphs[j] = paragraphs[j], paragraphs[i]
-	})
-
-	clearScreen()
+	// rand.Seed(time.Now().UnixNano())
+	// rand.Shuffle(len(paragraphs), func(i, j int) {
+	// 	paragraphs[i], paragraphs[j] = paragraphs[j], paragraphs[i]
+	// })
+	paragraphs = reverseSlice(paragraphs)
 
 	for i := 0; i < len(paragraphs); i++ {
+		clearScreen()
 		text := paragraphs[i].P
 		fmt.Println(text)
 		fmt.Printf("%v paragraphs left\n", len(paragraphs)-i-1)
@@ -43,10 +43,23 @@ func main() {
 		speak(text)
 		time.Sleep(1 * time.Second)
 		speak(text)
-		clearScreen()
+		waitForEnter()
 	}
 
 	fmt.Println("All paragraphs have been listened. Exiting.")
+}
+
+func reverseSlice(slice []Paragraph) []Paragraph {
+	for i, j := 0, len(slice)-1; i < j; i, j = i+1, j-1 {
+		slice[i], slice[j] = slice[j], slice[i]
+	}
+	return slice
+}
+
+func waitForEnter() {
+	reader := bufio.NewReader(os.Stdin)
+	fmt.Print("Press Enter to continue...")
+	reader.ReadString('\n')
 }
 
 func clearScreen() {
