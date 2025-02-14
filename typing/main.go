@@ -87,7 +87,7 @@ func main() {
 				input += string(char)
 			} else {
 				fc := string(rune(text[utf8.RuneCountInString(input)]))
-				if fc == "." || fc == "," {
+				if fc == "." || fc == "," || fc == "'" {
 				} else {
 					items := strings.Split(input, " ")
 					if len(items) > 1 {
