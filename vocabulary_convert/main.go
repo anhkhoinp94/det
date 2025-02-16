@@ -1,14 +1,15 @@
 package main
 
 import (
-	"bufio"
 	"encoding/json"
 	"fmt"
+	"log"
 	"os"
-	"strings"
+
+	"github.com/xuri/excelize/v2"
 )
 
-type Item struct {
+type Data struct {
 	Id  int    `json:"id"`
 	En1 string `json:"en1"`
 	En2 string `json:"en2"`
@@ -18,57 +19,42 @@ type Item struct {
 }
 
 func main() {
-	// Open the file
-	file, err := os.Open("input.txt")
+	// Open the Excel file
+	file, err := excelize.OpenFile("AWL-DETVN.xlsx")
 	if err != nil {
-		fmt.Println("Error opening file:", err)
-		return
+		log.Fatalf("Failed to open file: %v", err)
 	}
 	defer file.Close()
 
-	var items []Item
-	scanner := bufio.NewScanner(file)
-	idCounter := 867
-
-	for scanner.Scan() {
-		line := scanner.Text()
-		parts := strings.Split(line, ": ")
-		if len(parts) == 2 {
-			item := Item{
-				Id:  idCounter,
-				En1: parts[0],
-				Vn1: parts[1],
-			}
-			items = append(items, item)
-			idCounter++
-		}
+	// Get all rows from the first sheet
+	sheetName := file.GetSheetName(0) // Get the first sheet
+	rows, err := file.GetRows(sheetName)
+	if err != nil {
+		log.Fatalf("Failed to get rows: %v", err)
 	}
 
-	if err := scanner.Err(); err != nil {
-		fmt.Println("Error reading file:", err)
-		return
+	var data []Data
+
+	// Iterate from line 3 (index 2, since it's zero-based)
+	for i := 3; i < len(rows); i++ {
+		row := rows[i]
+		if len(row) < 3 { // Ensure we have enough columns
+			continue
+		}
+		data = append(data, Data{Id: i - 3, En1: row[0], En2: row[6], En3: "", En4: row[4], Vn1: "(" + row[2] + ")" + " " + row[5]})
 	}
 
 	// Convert to JSON
-	jsonData, err := json.MarshalIndent(items, "", "  ")
+	jsonData, err := json.MarshalIndent(data, "", "  ")
 	if err != nil {
-		fmt.Println("Error converting to JSON:", err)
-		return
+		log.Fatalf("Failed to convert to JSON: %v", err)
 	}
 
 	// Write JSON to file
-	jsonFile, err := os.Create("output.json")
-	if err != nil {
-		fmt.Println("Error creating JSON file:", err)
-		return
-	}
-	defer jsonFile.Close()
-
-	_, err = jsonFile.Write(jsonData)
-	if err != nil {
-		fmt.Println("Error writing JSON to file:", err)
-		return
+	jsonFileName := "output.json"
+	if err := os.WriteFile(jsonFileName, jsonData, 0644); err != nil {
+		log.Fatalf("Failed to write JSON file: %v", err)
 	}
 
-	fmt.Println("JSON data has been written to output.json")
+	fmt.Printf("JSON data has been written to %s\n", jsonFileName)
 }

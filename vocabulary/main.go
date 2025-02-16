@@ -27,7 +27,7 @@ type Paragraph struct {
 }
 
 func main() {
-	file, err := os.Open("paragraphs.json")
+	file, err := os.Open("part2.json")
 	if err != nil {
 		fmt.Println("Error opening JSON file:", err)
 		return
