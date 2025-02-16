@@ -23,6 +23,7 @@ const (
 type Paragraph struct {
 	Id  int    `json:"id"`
 	En1 string `json:"en1"`
+	En2 string `json:"en2"`
 	Vn1 string `json:"vn1"`
 }
 
@@ -60,11 +61,15 @@ func main() {
 		}
 
 		text := paragraphs[index].En1
+		sentence := paragraphs[index].En2
 		input := ""
 
 		clearScreen()
 		printText(text, input, paragraphs[index].Vn1)
+
 		go func() {
+			speak(text)
+			time.Sleep(200 * time.Millisecond)
 			speak(text)
 		}()
 
@@ -96,13 +101,16 @@ func main() {
 			printText(text, input, paragraphs[index].Vn1)
 
 			if input == text {
-
-				fmt.Println()
+				fmt.Println(sentence)
 				bar.Add(1)
 				fmt.Printf("\n")
 				fmt.Printf("\n")
 				go func() {
 					speak(text)
+					time.Sleep(400 * time.Millisecond)
+					speak(sentence)
+					time.Sleep(400 * time.Millisecond)
+					speak(sentence)
 				}()
 				break
 			}
