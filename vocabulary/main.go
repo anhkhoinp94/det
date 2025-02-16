@@ -105,13 +105,11 @@ func main() {
 				bar.Add(1)
 				fmt.Printf("\n")
 				fmt.Printf("\n")
-				go func() {
-					speak(text)
-					time.Sleep(400 * time.Millisecond)
-					speak(sentence)
-					time.Sleep(400 * time.Millisecond)
-					speak(sentence)
-				}()
+				speak(text)
+				time.Sleep(400 * time.Millisecond)
+				speak(sentence)
+				time.Sleep(400 * time.Millisecond)
+				speak(sentence)
 				break
 			}
 		}
