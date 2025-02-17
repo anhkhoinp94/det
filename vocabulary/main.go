@@ -60,10 +60,8 @@ func main() {
 			}
 		}
 
-		// text := paragraphs[index].En1
-		// sentence := paragraphs[index].En2
-		text := paragraphs[index].En2
-		sentence := paragraphs[index].En1
+		text := paragraphs[index].En1
+		sentence := paragraphs[index].En2
 		input := ""
 
 		clearScreen()
