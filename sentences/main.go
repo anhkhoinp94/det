@@ -24,11 +24,12 @@ const (
 )
 
 type Paragraph struct {
-	P string `json:"p"`
+	En2 string `json:"en2"`
+	Vn1 string `json:"vn1"`
 }
 
 func main() {
-	file, err := os.Open("paragraphs.json")
+	file, err := os.Open("part2.json")
 	if err != nil {
 		fmt.Println("Error opening JSON file:", err)
 		return
@@ -55,7 +56,8 @@ func main() {
 			}
 		}
 
-		text := paragraphs[index].P
+		text := paragraphs[index].En2
+		mean := paragraphs[index].Vn1
 		input := ""
 
 		clearScreen()
@@ -101,7 +103,7 @@ func main() {
 			printText(text, input)
 
 			if input == text {
-				fmt.Println("Congratulations! You've typed the text correctly.")
+				fmt.Printf("Congratulations! It is %s\n", mean)
 				fmt.Printf("%v sentences left\n", len(paragraphs)-len(usedIndices))
 				CopyToClipboard(`"` + text + `"`)
 				speak(text)
