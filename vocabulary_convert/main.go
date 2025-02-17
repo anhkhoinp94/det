@@ -36,12 +36,19 @@ func main() {
 	var data []Data
 
 	// Iterate from line 3 (index 2, since it's zero-based)
+	id := 0
 	for i := 3; i < len(rows); i++ {
 		row := rows[i]
 		if len(row) < 3 { // Ensure we have enough columns
 			continue
 		}
-		data = append(data, Data{Id: i - 3, En1: row[0], En2: row[6], En3: "", En4: row[4], Vn1: "(" + row[2] + ")" + " " + row[5]})
+		fmt.Println("row", row)
+		if len(row) > 7 && row[7] == "x" {
+			continue
+		} else {
+			data = append(data, Data{Id: id, En1: row[0], En2: row[6], En3: "", En4: row[4], Vn1: "(" + row[2] + ")" + " " + row[5]})
+			id += 1
+		}
 	}
 
 	// Convert to JSON

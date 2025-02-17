@@ -1,30 +1,6 @@
 [
   {
     "id": 0,
-    "en1": "analysis",
-    "en2": "We conducted a detailed analysis of the data.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Phân tích"
-  },
-  {
-    "id": 1,
-    "en1": "approach",
-    "en2": "We will need to take a different approach to this problem.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Cách tiếp cận/tiếp cận"
-  },
-  {
-    "id": 2,
-    "en1": "area",
-    "en2": "My research interests lie in the area of artificial intelligence.",
-    "en3": "",
-    "en4": "B1",
-    "vn1": "(Noun) Lĩnh vực"
-  },
-  {
-    "id": 3,
     "en1": "assessment",
     "en2": "The teacher made an assessment of the students' progress.",
     "en3": "",
@@ -32,7 +8,7 @@
     "vn1": "(Noun) Đánh giá"
   },
   {
-    "id": 4,
+    "id": 1,
     "en1": "assume",
     "en2": "Let's assume that the hypothesis is correct.",
     "en3": "",
@@ -40,7 +16,7 @@
     "vn1": "(Verb) Giả sử"
   },
   {
-    "id": 5,
+    "id": 2,
     "en1": "authority",
     "en2": "The government has the authority to make laws.",
     "en3": "",
@@ -48,7 +24,7 @@
     "vn1": "(Noun) Thẩm quyền"
   },
   {
-    "id": 6,
+    "id": 3,
     "en1": "available",
     "en2": "The information is available online.",
     "en3": "",
@@ -56,15 +32,7 @@
     "vn1": "(Adjective) Sẵn có"
   },
   {
-    "id": 7,
-    "en1": "benefit",
-    "en2": "There are many benefits to studying abroad.",
-    "en3": "",
-    "en4": "B1",
-    "vn1": "(Noun/Verb) Lợi ích/mang lại lợi ích"
-  },
-  {
-    "id": 8,
+    "id": 4,
     "en1": "concept",
     "en2": "The concept of gravity is difficult to understand.",
     "en3": "",
@@ -72,7 +40,7 @@
     "vn1": "(Noun) Khái niệm"
   },
   {
-    "id": 9,
+    "id": 5,
     "en1": "consistent",
     "en2": "Her behavior was inconsistent with her words.",
     "en3": "",
@@ -80,7 +48,7 @@
     "vn1": "(Adjective) Kiên định"
   },
   {
-    "id": 10,
+    "id": 6,
     "en1": "constitutional",
     "en2": "The law is constitutional.",
     "en3": "",
@@ -88,47 +56,7 @@
     "vn1": "(Adjective) Hiến pháp"
   },
   {
-    "id": 11,
-    "en1": "context",
-    "en2": "The meaning of the word depends on the context.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Ngữ cảnh"
-  },
-  {
-    "id": 12,
-    "en1": "contract",
-    "en2": "We signed a contract with the company.",
-    "en3": "",
-    "en4": "B1",
-    "vn1": "(Noun/Verb) Hợp đồng/ký hợp đồng"
-  },
-  {
-    "id": 13,
-    "en1": "create",
-    "en2": "The artist created a beautiful painting.",
-    "en3": "",
-    "en4": "B1",
-    "vn1": "(Verb) Tạo ra"
-  },
-  {
-    "id": 14,
-    "en1": "data",
-    "en2": "The computer analyzed the data.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Dữ liệu"
-  },
-  {
-    "id": 15,
-    "en1": "definition",
-    "en2": "What is the definition of this word?",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Định nghĩa"
-  },
-  {
-    "id": 16,
+    "id": 7,
     "en1": "derived",
     "en2": "This word is derived from a Latin verb.",
     "en3": "",
@@ -136,47 +64,7 @@
     "vn1": "(Verb (past participle)) Được bắt nguồn từ"
   },
   {
-    "id": 17,
-    "en1": "distribution",
-    "en2": "The company is responsible for the distribution of the product.",
-    "en3": "",
-    "en4": "C1",
-    "vn1": "(Noun) Phân phối"
-  },
-  {
-    "id": 18,
-    "en1": "economic",
-    "en2": "The economic situation of the country is improving.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Kinh tế"
-  },
-  {
-    "id": 19,
-    "en1": "environment",
-    "en2": "We need to protect the environment.",
-    "en3": "",
-    "en4": "B1",
-    "vn1": "(Noun) Môi trường"
-  },
-  {
-    "id": 20,
-    "en1": "established",
-    "en2": "The company was established in 1990.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective/Verb (past participle)) Được thành lập/thành lập"
-  },
-  {
-    "id": 21,
-    "en1": "estimate",
-    "en2": "The cost of repairs is estimated to be $1000.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb/Noun) Ước tính/sự ước tính"
-  },
-  {
-    "id": 22,
+    "id": 8,
     "en1": "evidence",
     "en2": "There is no evidence to support this claim.",
     "en3": "",
@@ -184,15 +72,7 @@
     "vn1": "(Noun) Bằng chứng"
   },
   {
-    "id": 23,
-    "en1": "export",
-    "en2": "The country exports oil to other countries.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb/Noun) Xuất khẩu/mặt hàng xuất khẩu"
-  },
-  {
-    "id": 24,
+    "id": 9,
     "en1": "factors",
     "en2": "There are many factors to consider.",
     "en3": "",
@@ -200,15 +80,7 @@
     "vn1": "(Noun (plural)) Các yếu tố"
   },
   {
-    "id": 25,
-    "en1": "financial",
-    "en2": "The company is in financial difficulty.",
-    "en3": "",
-    "en4": "B1",
-    "vn1": "(Adjective) Tài chính"
-  },
-  {
-    "id": 26,
+    "id": 10,
     "en1": "formula",
     "en2": "The formula for calculating the area of a circle is pi r squared.",
     "en3": "",
@@ -216,15 +88,7 @@
     "vn1": "(Noun) Công thức"
   },
   {
-    "id": 27,
-    "en1": "function",
-    "en2": "What is the function of this button?",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Chức năng/hoạt động"
-  },
-  {
-    "id": 28,
+    "id": 11,
     "en1": "identified",
     "en2": "The problem has been identified.",
     "en3": "",
@@ -232,15 +96,7 @@
     "vn1": "(Verb (past participle)) Được xác định"
   },
   {
-    "id": 29,
-    "en1": "income",
-    "en2": "Her income is $50,000 per year.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Thu nhập"
-  },
-  {
-    "id": 30,
+    "id": 12,
     "en1": "indicate",
     "en2": "The results indicate that there is a problem.",
     "en3": "",
@@ -248,7 +104,7 @@
     "vn1": "(Verb) Chỉ ra"
   },
   {
-    "id": 31,
+    "id": 13,
     "en1": "individual",
     "en2": "Each individual has their own opinion.",
     "en3": "",
@@ -256,7 +112,7 @@
     "vn1": "(Noun/Adjective) Cá nhân/cá thể"
   },
   {
-    "id": 32,
+    "id": 14,
     "en1": "interpretation",
     "en2": "There are different interpretations of this poem.",
     "en3": "",
@@ -264,7 +120,7 @@
     "vn1": "(Noun) Sự giải thích"
   },
   {
-    "id": 33,
+    "id": 15,
     "en1": "involved",
     "en2": "She is involved in the project.",
     "en3": "",
@@ -272,15 +128,7 @@
     "vn1": "(Adjective) Liên quan"
   },
   {
-    "id": 34,
-    "en1": "issues",
-    "en2": "The government is facing many economic issues.",
-    "en3": "",
-    "en4": "B1",
-    "vn1": "(Noun (plural)) Các vấn đề"
-  },
-  {
-    "id": 35,
+    "id": 16,
     "en1": "labour",
     "en2": "The factory employs a large number of laborers.",
     "en3": "",
@@ -288,7 +136,7 @@
     "vn1": "(Noun) Lao động"
   },
   {
-    "id": 36,
+    "id": 17,
     "en1": "legal",
     "en2": "The lawyer gave him legal advice.",
     "en3": "",
@@ -296,7 +144,7 @@
     "vn1": "(Adjective) Pháp lý"
   },
   {
-    "id": 37,
+    "id": 18,
     "en1": "legislation",
     "en2": "The government passed new legislation.",
     "en3": "",
@@ -304,47 +152,7 @@
     "vn1": "(Noun) Pháp luật"
   },
   {
-    "id": 38,
-    "en1": "major",
-    "en2": "Climate change is a major issue.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective/Noun) Chính, quan trọng/chuyên ngành"
-  },
-  {
-    "id": 39,
-    "en1": "method",
-    "en2": "What method did you use to solve the problem?",
-    "en3": "",
-    "en4": "B1",
-    "vn1": "(Noun) Phương pháp"
-  },
-  {
-    "id": 40,
-    "en1": "occur",
-    "en2": "The accident occurred at night.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb) Xảy ra"
-  },
-  {
-    "id": 41,
-    "en1": "percent",
-    "en2": "The interest rate is five percent.",
-    "en3": "",
-    "en4": "B1",
-    "vn1": "(Noun) Phần trăm"
-  },
-  {
-    "id": 42,
-    "en1": "period",
-    "en2": "The project will take a long period of time.",
-    "en3": "",
-    "en4": "B1",
-    "vn1": "(Noun) Khoảng thời gian"
-  },
-  {
-    "id": 43,
+    "id": 19,
     "en1": "policy",
     "en2": "The government's policy on education is changing.",
     "en3": "",
@@ -352,7 +160,7 @@
     "vn1": "(Noun) Chính sách"
   },
   {
-    "id": 44,
+    "id": 20,
     "en1": "principle",
     "en2": "He is a man of strong principles.",
     "en3": "",
@@ -360,7 +168,7 @@
     "vn1": "(Noun) Nguyên tắc"
   },
   {
-    "id": 45,
+    "id": 21,
     "en1": "procedure",
     "en2": "Follow the procedure carefully.",
     "en3": "",
@@ -368,7 +176,7 @@
     "vn1": "(Noun) Thủ tục"
   },
   {
-    "id": 46,
+    "id": 22,
     "en1": "process",
     "en2": "The application process takes several weeks.",
     "en3": "",
@@ -376,39 +184,7 @@
     "vn1": "(Noun/Verb) Quá trình/xử lý"
   },
   {
-    "id": 47,
-    "en1": "required",
-    "en2": "English is required for this job.",
-    "en3": "",
-    "en4": "B1",
-    "vn1": "(Adjective) Cần thiết"
-  },
-  {
-    "id": 48,
-    "en1": "research",
-    "en2": "The scientist conducted research on cancer.",
-    "en3": "",
-    "en4": "B1",
-    "vn1": "(Noun/Verb) Nghiên cứu/nghiên cứu"
-  },
-  {
-    "id": 49,
-    "en1": "response",
-    "en2": "I received a positive response to my email.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Phản ứng"
-  },
-  {
-    "id": 50,
-    "en1": "role",
-    "en2": "What is your role in the project?",
-    "en3": "",
-    "en4": "B1",
-    "vn1": "(Noun) Vai trò"
-  },
-  {
-    "id": 51,
+    "id": 23,
     "en1": "section",
     "en2": "Read the first section of the chapter.",
     "en3": "",
@@ -416,7 +192,7 @@
     "vn1": "(Noun) Phần, đoạn"
   },
   {
-    "id": 52,
+    "id": 24,
     "en1": "sector",
     "en2": "The IT sector is growing rapidly.",
     "en3": "",
@@ -424,7 +200,7 @@
     "vn1": "(Noun) Khu vực"
   },
   {
-    "id": 53,
+    "id": 25,
     "en1": "significant",
     "en2": "There has been a significant increase in crime.",
     "en3": "",
@@ -432,15 +208,7 @@
     "vn1": "(Adjective) Quan trọng"
   },
   {
-    "id": 54,
-    "en1": "similar",
-    "en2": "The two houses are similar in size.",
-    "en3": "",
-    "en4": "B1",
-    "vn1": "(Adjective) Tương tự"
-  },
-  {
-    "id": 55,
+    "id": 26,
     "en1": "source",
     "en2": "The river is the main source of water for the city.",
     "en3": "",
@@ -448,7 +216,7 @@
     "vn1": "(Noun) Nguồn"
   },
   {
-    "id": 56,
+    "id": 27,
     "en1": "specific",
     "en2": "Can you be more specific?",
     "en3": "",
@@ -456,7 +224,7 @@
     "vn1": "(Adjective) Cụ thể"
   },
   {
-    "id": 57,
+    "id": 28,
     "en1": "structure",
     "en2": "The building has a modern structure.",
     "en3": "",
@@ -464,7 +232,7 @@
     "vn1": "(Noun) Cấu trúc"
   },
   {
-    "id": 58,
+    "id": 29,
     "en1": "theory",
     "en2": "The theory of relativity is complex.",
     "en3": "",
@@ -472,7 +240,7 @@
     "vn1": "(Noun) Lý thuyết"
   },
   {
-    "id": 59,
+    "id": 30,
     "en1": "variables",
     "en2": "There are many variables to consider in this experiment.",
     "en3": "",
@@ -480,15 +248,7 @@
     "vn1": "(Noun (plural)) Biến số"
   },
   {
-    "id": 60,
-    "en1": "achieve",
-    "en2": "She achieved her goal of becoming a doctor.",
-    "en3": "",
-    "en4": "B1",
-    "vn1": "(Verb) Đạt được"
-  },
-  {
-    "id": 61,
+    "id": 31,
     "en1": "acquisition",
     "en2": "The company made a large acquisition.",
     "en3": "",
@@ -496,15 +256,7 @@
     "vn1": "(Noun) Sự thu mua, tiếp thu"
   },
   {
-    "id": 62,
-    "en1": "administration",
-    "en2": "The government administration is facing challenges.",
-    "en3": "",
-    "en4": "C1",
-    "vn1": "(Noun) Quản lý"
-  },
-  {
-    "id": 63,
+    "id": 32,
     "en1": "affect",
     "en2": "The weather affected our plans.",
     "en3": "",
@@ -512,7 +264,7 @@
     "vn1": "(Verb) Ảnh hưởng"
   },
   {
-    "id": 64,
+    "id": 33,
     "en1": "appropriate",
     "en2": "This is not an appropriate time to discuss the issue.",
     "en3": "",
@@ -520,7 +272,7 @@
     "vn1": "(Adjective) Thích hợp"
   },
   {
-    "id": 65,
+    "id": 34,
     "en1": "aspects",
     "en2": "We need to consider all aspects of the problem.",
     "en3": "",
@@ -528,15 +280,7 @@
     "vn1": "(Noun (plural)) Khía cạnh"
   },
   {
-    "id": 66,
-    "en1": "assistance",
-    "en2": "Can I be of any assistance?",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Sự trợ giúp"
-  },
-  {
-    "id": 67,
+    "id": 35,
     "en1": "categories",
     "en2": "The books are divided into different categories.",
     "en3": "",
@@ -544,15 +288,7 @@
     "vn1": "(Noun (plural)) Các loại, hạng mục"
   },
   {
-    "id": 68,
-    "en1": "chapter",
-    "en2": "Read the first chapter of the book.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Chương"
-  },
-  {
-    "id": 69,
+    "id": 36,
     "en1": "commission",
     "en2": "The government set up a commission to investigate the issue.",
     "en3": "",
@@ -560,7 +296,7 @@
     "vn1": "(Noun/Verb) Ủy ban/ủy nhiệm"
   },
   {
-    "id": 70,
+    "id": 37,
     "en1": "community",
     "en2": "The local community is very supportive.",
     "en3": "",
@@ -568,7 +304,7 @@
     "vn1": "(Noun) Cộng đồng"
   },
   {
-    "id": 71,
+    "id": 38,
     "en1": "complex",
     "en2": "The problem is very complex.",
     "en3": "",
@@ -576,15 +312,7 @@
     "vn1": "(Adjective) Phức tạp"
   },
   {
-    "id": 72,
-    "en1": "computer",
-    "en2": "Computers have changed the way we live.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Máy tính"
-  },
-  {
-    "id": 73,
+    "id": 39,
     "en1": "conclusion",
     "en2": "In conclusion, the study shows that...",
     "en3": "",
@@ -592,7 +320,7 @@
     "vn1": "(Noun) Kết luận"
   },
   {
-    "id": 74,
+    "id": 40,
     "en1": "conduct",
     "en2": "The experiment was conducted carefully.",
     "en3": "",
@@ -600,7 +328,7 @@
     "vn1": "(Verb/Noun) Tiến hành/hành vi"
   },
   {
-    "id": 75,
+    "id": 41,
     "en1": "consequences",
     "en2": "There were serious consequences to his actions.",
     "en3": "",
@@ -608,7 +336,7 @@
     "vn1": "(Noun (plural)) Hậu quả"
   },
   {
-    "id": 76,
+    "id": 42,
     "en1": "construction",
     "en2": "The construction of the new bridge is taking a long time.",
     "en3": "",
@@ -616,15 +344,7 @@
     "vn1": "(Noun) Xây dựng"
   },
   {
-    "id": 77,
-    "en1": "consumer",
-    "en2": "Consumers are becoming more aware of environmental issues.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Người tiêu dùng"
-  },
-  {
-    "id": 78,
+    "id": 43,
     "en1": "credit",
     "en2": "I opened a credit card account.",
     "en3": "",
@@ -632,23 +352,7 @@
     "vn1": "(Noun/Verb) Tín dụng/ghi nhận"
   },
   {
-    "id": 79,
-    "en1": "cultural",
-    "en2": "There are many cultural differences between the two countries.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Văn hóa"
-  },
-  {
-    "id": 80,
-    "en1": "design",
-    "en2": "The design of the building is modern.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Thiết kế/thiết kế"
-  },
-  {
-    "id": 81,
+    "id": 44,
     "en1": "distinction",
     "en2": "There is a clear distinction between the two concepts.",
     "en3": "",
@@ -656,7 +360,7 @@
     "vn1": "(Noun) Sự khác biệt"
   },
   {
-    "id": 82,
+    "id": 45,
     "en1": "elements",
     "en2": "The key elements of the story are...",
     "en3": "",
@@ -664,7 +368,7 @@
     "vn1": "(Noun (plural)) Yếu tố"
   },
   {
-    "id": 83,
+    "id": 46,
     "en1": "equation",
     "en2": "The equation is x + y = z.",
     "en3": "",
@@ -672,7 +376,7 @@
     "vn1": "(Noun) Phương trình"
   },
   {
-    "id": 84,
+    "id": 47,
     "en1": "evaluation",
     "en2": "The teacher gave the students a positive evaluation.",
     "en3": "",
@@ -680,31 +384,7 @@
     "vn1": "(Noun) Đánh giá"
   },
   {
-    "id": 85,
-    "en1": "features",
-    "en2": "The phone has many great features.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun (plural)) Tính năng"
-  },
-  {
-    "id": 86,
-    "en1": "final",
-    "en2": "This is the final exam.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Cuối cùng"
-  },
-  {
-    "id": 87,
-    "en1": "focus",
-    "en2": "The focus of the study is on...",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Trọng tâm/tập trung"
-  },
-  {
-    "id": 88,
+    "id": 48,
     "en1": "impact",
     "en2": "The decision had a big impact on the company.",
     "en3": "",
@@ -712,7 +392,7 @@
     "vn1": "(Noun/Verb) Ảnh hưởng/tác động"
   },
   {
-    "id": 89,
+    "id": 49,
     "en1": "injury",
     "en2": "He suffered a serious injury.",
     "en3": "",
@@ -720,7 +400,7 @@
     "vn1": "(Noun) Chấn thương"
   },
   {
-    "id": 90,
+    "id": 50,
     "en1": "institute",
     "en2": "He founded a research institute.",
     "en3": "",
@@ -728,23 +408,7 @@
     "vn1": "(Noun/Verb) Viện/thành lập"
   },
   {
-    "id": 91,
-    "en1": "investment",
-    "en2": "Investing in education is important.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Đầu tư"
-  },
-  {
-    "id": 92,
-    "en1": "items",
-    "en2": "There are many items on sale.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun (plural)) Các mặt hàng"
-  },
-  {
-    "id": 93,
+    "id": 51,
     "en1": "journal",
     "en2": "She writes in her journal every day.",
     "en3": "",
@@ -752,7 +416,7 @@
     "vn1": "(Noun) Tạp chí, nhật ký"
   },
   {
-    "id": 94,
+    "id": 52,
     "en1": "maintenance",
     "en2": "The car needs maintenance.",
     "en3": "",
@@ -760,15 +424,7 @@
     "vn1": "(Noun) Bảo trì"
   },
   {
-    "id": 95,
-    "en1": "normal",
-    "en2": "This is a normal reaction.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Bình thường"
-  },
-  {
-    "id": 96,
+    "id": 53,
     "en1": "obtained",
     "en2": "The information was obtained from the internet.",
     "en3": "",
@@ -776,7 +432,7 @@
     "vn1": "(Verb (past participle)) Đạt được"
   },
   {
-    "id": 97,
+    "id": 54,
     "en1": "participation",
     "en2": "Student participation in class is important.",
     "en3": "",
@@ -784,7 +440,7 @@
     "vn1": "(Noun) Sự tham gia"
   },
   {
-    "id": 98,
+    "id": 55,
     "en1": "perceived",
     "en2": "The situation was perceived as a threat.",
     "en3": "",
@@ -792,15 +448,7 @@
     "vn1": "(Verb (past participle)) Được nhận thức"
   },
   {
-    "id": 99,
-    "en1": "positive",
-    "en2": "She has a positive attitude.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Tích cực"
-  },
-  {
-    "id": 100,
+    "id": 56,
     "en1": "potential",
     "en2": "She has great potential as a writer.",
     "en3": "",
@@ -808,7 +456,7 @@
     "vn1": "(Noun/Adjective) Tiềm năng"
   },
   {
-    "id": 101,
+    "id": 57,
     "en1": "previous",
     "en2": "In a previous life, I was a teacher.",
     "en3": "",
@@ -816,7 +464,7 @@
     "vn1": "(Adjective) Trước đó"
   },
   {
-    "id": 102,
+    "id": 58,
     "en1": "primary",
     "en2": "The primary cause of the problem is pollution.",
     "en3": "",
@@ -824,31 +472,7 @@
     "vn1": "(Adjective) Chính, chủ yếu"
   },
   {
-    "id": 103,
-    "en1": "purchase",
-    "en2": "I made a purchase at the store.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Mua hàng/mua"
-  },
-  {
-    "id": 104,
-    "en1": "range",
-    "en2": "The prices range from $10 to $100.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Phạm vi/dao động"
-  },
-  {
-    "id": 105,
-    "en1": "region",
-    "en2": "The southern region of the country is warmer.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Vùng, miền"
-  },
-  {
-    "id": 106,
+    "id": 59,
     "en1": "regulations",
     "en2": "The company must follow strict regulations.",
     "en3": "",
@@ -856,7 +480,7 @@
     "vn1": "(Noun (plural)) Quy định"
   },
   {
-    "id": 107,
+    "id": 60,
     "en1": "relevant",
     "en2": "The information is relevant to the topic.",
     "en3": "",
@@ -864,7 +488,7 @@
     "vn1": "(Adjective) Liên quan"
   },
   {
-    "id": 108,
+    "id": 61,
     "en1": "resident",
     "en2": "She is a resident of New York City.",
     "en3": "",
@@ -872,7 +496,7 @@
     "vn1": "(Noun) Cư dân"
   },
   {
-    "id": 109,
+    "id": 62,
     "en1": "resources",
     "en2": "The country has abundant natural resources.",
     "en3": "",
@@ -880,7 +504,7 @@
     "vn1": "(Noun (plural)) Tài nguyên"
   },
   {
-    "id": 110,
+    "id": 63,
     "en1": "restricted",
     "en2": "Access to the building is restricted.",
     "en3": "",
@@ -888,7 +512,7 @@
     "vn1": "(Adjective) Hạn chế"
   },
   {
-    "id": 111,
+    "id": 64,
     "en1": "security",
     "en2": "The airport has tight security.",
     "en3": "",
@@ -896,7 +520,7 @@
     "vn1": "(Noun) An ninh"
   },
   {
-    "id": 112,
+    "id": 65,
     "en1": "sought",
     "en2": "They sought help from the police.",
     "en3": "",
@@ -904,15 +528,7 @@
     "vn1": "(Verb (past tense)) Tìm kiếm"
   },
   {
-    "id": 113,
-    "en1": "select",
-    "en2": "Please select one option from the list.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb) Chọn lựa"
-  },
-  {
-    "id": 114,
+    "id": 66,
     "en1": "site",
     "en2": "The construction site is noisy.",
     "en3": "",
@@ -920,7 +536,7 @@
     "vn1": "(Noun) Địa điểm"
   },
   {
-    "id": 115,
+    "id": 67,
     "en1": "strategies",
     "en2": "The company developed new marketing strategies.",
     "en3": "",
@@ -928,31 +544,7 @@
     "vn1": "(Noun (plural)) Chiến lược"
   },
   {
-    "id": 116,
-    "en1": "survey",
-    "en2": "The survey showed that people are concerned about climate change.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Khảo sát/khảo sát"
-  },
-  {
-    "id": 117,
-    "en1": "text",
-    "en2": "I sent her a text message.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Văn bản"
-  },
-  {
-    "id": 118,
-    "en1": "traditional",
-    "en2": "She wears traditional clothing.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Truyền thống"
-  },
-  {
-    "id": 119,
+    "id": 68,
     "en1": "transfer",
     "en2": "I transferred money to my bank account.",
     "en3": "",
@@ -960,7 +552,7 @@
     "vn1": "(Verb/Noun) Chuyển giao/sự chuyển giao"
   },
   {
-    "id": 120,
+    "id": 69,
     "en1": "alternative",
     "en2": "Do you have an alternative plan?",
     "en3": "",
@@ -968,23 +560,7 @@
     "vn1": "(Adjective/Noun) Thay thế/sự thay thế"
   },
   {
-    "id": 121,
-    "en1": "circumstances",
-    "en2": "Under the circumstances, we have no choice.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun (plural)) Hoàn cảnh"
-  },
-  {
-    "id": 122,
-    "en1": "comments",
-    "en2": "The article received many positive comments.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun (plural)) Bình luận"
-  },
-  {
-    "id": 123,
+    "id": 70,
     "en1": "compensation",
     "en2": "He received compensation for his injuries.",
     "en3": "",
@@ -992,15 +568,7 @@
     "vn1": "(Noun) Tiền bồi thường"
   },
   {
-    "id": 124,
-    "en1": "components",
-    "en2": "The car has many different components.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun (plural)) Thành phần"
-  },
-  {
-    "id": 125,
+    "id": 71,
     "en1": "consent",
     "en2": "I give my consent to the proposal.",
     "en3": "",
@@ -1008,7 +576,7 @@
     "vn1": "(Noun/Verb) Sự đồng ý/đồng ý"
   },
   {
-    "id": 126,
+    "id": 72,
     "en1": "considerable",
     "en2": "There has been considerable progress.",
     "en3": "",
@@ -1016,7 +584,7 @@
     "vn1": "(Adjective) Đáng kể"
   },
   {
-    "id": 127,
+    "id": 73,
     "en1": "constant",
     "en2": "The noise was constant.",
     "en3": "",
@@ -1024,7 +592,7 @@
     "vn1": "(Adjective/Noun) Liên tục/hằng số"
   },
   {
-    "id": 128,
+    "id": 74,
     "en1": "constraints",
     "en2": "There are financial constraints on the project.",
     "en3": "",
@@ -1032,7 +600,7 @@
     "vn1": "(Noun (plural)) Ràng buộc"
   },
   {
-    "id": 129,
+    "id": 75,
     "en1": "contribution",
     "en2": "He made a significant contribution to the project.",
     "en3": "",
@@ -1040,7 +608,7 @@
     "vn1": "(Noun) Đóng góp"
   },
   {
-    "id": 130,
+    "id": 76,
     "en1": "convention",
     "en2": "The conference is a major convention in the industry.",
     "en3": "",
@@ -1048,7 +616,7 @@
     "vn1": "(Noun) Hội nghị, quy ước"
   },
   {
-    "id": 131,
+    "id": 77,
     "en1": "coordination",
     "en2": "Good coordination is essential for teamwork.",
     "en3": "",
@@ -1056,15 +624,7 @@
     "vn1": "(Noun) Sự phối hợp"
   },
   {
-    "id": 132,
-    "en1": "core",
-    "en2": "The core of the problem is...",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Lõi, cốt lõi"
-  },
-  {
-    "id": 133,
+    "id": 78,
     "en1": "corporate",
     "en2": "The corporate world is very competitive.",
     "en3": "",
@@ -1072,7 +632,7 @@
     "vn1": "(Adjective) Doanh nghiệp"
   },
   {
-    "id": 134,
+    "id": 79,
     "en1": "corresponding",
     "en2": "The two figures correspond to each other.",
     "en3": "",
@@ -1080,7 +640,7 @@
     "vn1": "(Adjective) Tương ứng"
   },
   {
-    "id": 135,
+    "id": 80,
     "en1": "criteria",
     "en2": "The candidates were selected based on certain criteria.",
     "en3": "",
@@ -1088,7 +648,7 @@
     "vn1": "(Noun (plural)) Tiêu chí"
   },
   {
-    "id": 136,
+    "id": 81,
     "en1": "deduction",
     "en2": "There was a deduction from my salary.",
     "en3": "",
@@ -1096,23 +656,7 @@
     "vn1": "(Noun) Sự khấu trừ"
   },
   {
-    "id": 137,
-    "en1": "demonstrate",
-    "en2": "The experiment demonstrated the theory.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb) Chứng minh"
-  },
-  {
-    "id": 138,
-    "en1": "document",
-    "en2": "Please document your findings.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Tài liệu/tài liệu hóa"
-  },
-  {
-    "id": 139,
+    "id": 82,
     "en1": "dominant",
     "en2": "English is the dominant language in the world.",
     "en3": "",
@@ -1120,7 +664,7 @@
     "vn1": "(Adjective) Chiếm ưu thế"
   },
   {
-    "id": 140,
+    "id": 83,
     "en1": "emphasis",
     "en2": "The emphasis is on education.",
     "en3": "",
@@ -1128,7 +672,7 @@
     "vn1": "(Noun) Sự nhấn mạnh"
   },
   {
-    "id": 141,
+    "id": 84,
     "en1": "ensure",
     "en2": "We must ensure the safety of our employees.",
     "en3": "",
@@ -1136,7 +680,7 @@
     "vn1": "(Verb) Đảm bảo"
   },
   {
-    "id": 142,
+    "id": 85,
     "en1": "excluded",
     "en2": "Children under 18 are excluded from the competition.",
     "en3": "",
@@ -1144,7 +688,7 @@
     "vn1": "(Verb (past participle)) Loại trừ"
   },
   {
-    "id": 143,
+    "id": 86,
     "en1": "framework",
     "en2": "The government developed a new economic framework.",
     "en3": "",
@@ -1152,15 +696,7 @@
     "vn1": "(Noun) Khung khổ"
   },
   {
-    "id": 144,
-    "en1": "funds",
-    "en2": "The project needs more funds.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun (plural)) Quỹ"
-  },
-  {
-    "id": 145,
+    "id": 87,
     "en1": "illustrated",
     "en2": "The book is illustrated with beautiful pictures.",
     "en3": "",
@@ -1168,7 +704,7 @@
     "vn1": "(Verb (past participle)) Minh họa"
   },
   {
-    "id": 146,
+    "id": 88,
     "en1": "immigration",
     "en2": "The country has strict immigration laws.",
     "en3": "",
@@ -1176,7 +712,7 @@
     "vn1": "(Noun) Di cư"
   },
   {
-    "id": 147,
+    "id": 89,
     "en1": "implies",
     "en2": "His silence implies that he is angry.",
     "en3": "",
@@ -1184,7 +720,7 @@
     "vn1": "(Verb (3rd person singular)) Ý nghĩa"
   },
   {
-    "id": 148,
+    "id": 90,
     "en1": "initial",
     "en2": "The initial plan was to...",
     "en3": "",
@@ -1192,7 +728,7 @@
     "vn1": "(Adjective/Noun) Ban đầu/ký tự đầu"
   },
   {
-    "id": 149,
+    "id": 91,
     "en1": "instance",
     "en2": "For instance, we could...",
     "en3": "",
@@ -1200,7 +736,7 @@
     "vn1": "(Noun) Ví dụ"
   },
   {
-    "id": 150,
+    "id": 92,
     "en1": "interaction",
     "en2": "There is a lot of interaction between students and teachers.",
     "en3": "",
@@ -1208,7 +744,7 @@
     "vn1": "(Noun) Sự tương tác"
   },
   {
-    "id": 151,
+    "id": 93,
     "en1": "justification",
     "en2": "What is your justification for your actions?",
     "en3": "",
@@ -1216,39 +752,7 @@
     "vn1": "(Noun) Sự biện minh"
   },
   {
-    "id": 152,
-    "en1": "layer",
-    "en2": "There are many layers of soil.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Lớp"
-  },
-  {
-    "id": 153,
-    "en1": "link",
-    "en2": "There is a link between the two events.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Liên kết/liên kết"
-  },
-  {
-    "id": 154,
-    "en1": "location",
-    "en2": "The meeting will be held at this location.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Vị trí"
-  },
-  {
-    "id": 155,
-    "en1": "maximum",
-    "en2": "What is the maximum speed limit?",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective/Noun) Tối đa/giá trị lớn nhất"
-  },
-  {
-    "id": 156,
+    "id": 94,
     "en1": "minorities",
     "en2": "The rights of minorities must be protected.",
     "en3": "",
@@ -1256,15 +760,7 @@
     "vn1": "(Noun (plural)) Thiểu số"
   },
   {
-    "id": 157,
-    "en1": "negative",
-    "en2": "The news had a negative impact on the market.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Tiêu cực"
-  },
-  {
-    "id": 158,
+    "id": 95,
     "en1": "outcomes",
     "en2": "The outcomes of the study were positive.",
     "en3": "",
@@ -1272,7 +768,7 @@
     "vn1": "(Noun (plural)) Kết quả"
   },
   {
-    "id": 159,
+    "id": 96,
     "en1": "partnership",
     "en2": "The two companies formed a partnership.",
     "en3": "",
@@ -1280,7 +776,7 @@
     "vn1": "(Noun) Quan hệ đối tác"
   },
   {
-    "id": 160,
+    "id": 97,
     "en1": "philosophy",
     "en2": "His philosophy of life is based on happiness.",
     "en3": "",
@@ -1288,7 +784,7 @@
     "vn1": "(Noun) Triết học"
   },
   {
-    "id": 161,
+    "id": 98,
     "en1": "physical",
     "en2": "He is in good physical condition.",
     "en3": "",
@@ -1296,7 +792,7 @@
     "vn1": "(Adjective) Vật lý, thể chất"
   },
   {
-    "id": 162,
+    "id": 99,
     "en1": "proportion",
     "en2": "Children make up a large proportion of the world's population",
     "en3": "",
@@ -1304,23 +800,7 @@
     "vn1": "(Noun) Tỷ lệ"
   },
   {
-    "id": 163,
-    "en1": "published",
-    "en2": "She was already a published author at the age of 23.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Được xuất bản"
-  },
-  {
-    "id": 164,
-    "en1": "reaction",
-    "en2": "What was your reaction to the news?",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Phản ứng"
-  },
-  {
-    "id": 165,
+    "id": 100,
     "en1": "registered",
     "en2": "I am registered to vote.",
     "en3": "",
@@ -1328,7 +808,7 @@
     "vn1": "(Verb (past participle)) Đăng ký"
   },
   {
-    "id": 166,
+    "id": 101,
     "en1": "reliance",
     "en2": "The country has a heavy reliance on oil.",
     "en3": "",
@@ -1336,15 +816,7 @@
     "vn1": "(Noun) Sự phụ thuộc"
   },
   {
-    "id": 167,
-    "en1": "removed",
-    "en2": "The tumor was removed successfully.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb (past participle)) Loại bỏ"
-  },
-  {
-    "id": 168,
+    "id": 102,
     "en1": "scheme",
     "en2": "The government launched a new economic scheme.",
     "en3": "",
@@ -1352,7 +824,7 @@
     "vn1": "(Noun) Kế hoạch"
   },
   {
-    "id": 169,
+    "id": 103,
     "en1": "sequence",
     "en2": "The events occurred in sequence.",
     "en3": "",
@@ -1360,15 +832,7 @@
     "vn1": "(Noun) Trình tự"
   },
   {
-    "id": 170,
-    "en1": "sex",
-    "en2": "The sex ratio is unbalanced.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Giới tính"
-  },
-  {
-    "id": 171,
+    "id": 104,
     "en1": "shift",
     "en2": "I work the night shift.",
     "en3": "",
@@ -1376,7 +840,7 @@
     "vn1": "(Noun/Verb) Ca làm việc/thay đổi"
   },
   {
-    "id": 172,
+    "id": 105,
     "en1": "specified",
     "en2": "The meeting time is specified in the email.",
     "en3": "",
@@ -1384,7 +848,7 @@
     "vn1": "(Adjective) Được chỉ định"
   },
   {
-    "id": 173,
+    "id": 106,
     "en1": "sufficient",
     "en2": "We have sufficient evidence to prove the case.",
     "en3": "",
@@ -1392,15 +856,7 @@
     "vn1": "(Adjective) Đủ"
   },
   {
-    "id": 174,
-    "en1": "task",
-    "en2": "Completing the project is a challenging task.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Nhiệm vụ"
-  },
-  {
-    "id": 175,
+    "id": 107,
     "en1": "technical",
     "en2": "The problem is too technical for me.",
     "en3": "",
@@ -1408,7 +864,7 @@
     "vn1": "(Adjective) Kỹ thuật"
   },
   {
-    "id": 176,
+    "id": 108,
     "en1": "techniques",
     "en2": "The scientist developed new research techniques.",
     "en3": "",
@@ -1416,15 +872,7 @@
     "vn1": "(Noun (plural)) Kỹ thuật"
   },
   {
-    "id": 177,
-    "en1": "technology",
-    "en2": "Technology is changing rapidly.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Công nghệ"
-  },
-  {
-    "id": 178,
+    "id": 109,
     "en1": "validity",
     "en2": "The validity of the results was questioned.",
     "en3": "",
@@ -1432,15 +880,7 @@
     "vn1": "(Noun) Tính hợp lệ"
   },
   {
-    "id": 179,
-    "en1": "volume",
-    "en2": "The volume of the book is large.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Khối lượng"
-  },
-  {
-    "id": 180,
+    "id": 110,
     "en1": "access",
     "en2": "You need a password to access the system.",
     "en3": "",
@@ -1448,7 +888,7 @@
     "vn1": "(Noun/Verb) Truy cập/tiếp cận"
   },
   {
-    "id": 181,
+    "id": 111,
     "en1": "adequate",
     "en2": "The room is not adequate for a family.",
     "en3": "",
@@ -1456,15 +896,7 @@
     "vn1": "(Adjective) Đủ, thích hợp"
   },
   {
-    "id": 182,
-    "en1": "annual",
-    "en2": "The company has an annual meeting.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Hàng năm"
-  },
-  {
-    "id": 183,
+    "id": 112,
     "en1": "apparent",
     "en2": "It was apparent that she was angry.",
     "en3": "",
@@ -1472,7 +904,7 @@
     "vn1": "(Adjective) Rõ ràng"
   },
   {
-    "id": 184,
+    "id": 113,
     "en1": "approximated",
     "en2": "The cost was approximated at $10,000.",
     "en3": "",
@@ -1480,7 +912,7 @@
     "vn1": "(Verb (past participle)) Ước tính"
   },
   {
-    "id": 185,
+    "id": 114,
     "en1": "attitudes",
     "en2": "People have different attitudes towards technology.",
     "en3": "",
@@ -1488,7 +920,7 @@
     "vn1": "(Noun (plural)) Thái độ"
   },
   {
-    "id": 186,
+    "id": 115,
     "en1": "attributed",
     "en2": "The success was attributed to the team's hard work.",
     "en3": "",
@@ -1496,7 +928,7 @@
     "vn1": "(Verb (past participle)) Được quy cho"
   },
   {
-    "id": 187,
+    "id": 116,
     "en1": "civil",
     "en2": "The civil war lasted for many years.",
     "en3": "",
@@ -1504,15 +936,7 @@
     "vn1": "(Adjective) Dân sự"
   },
   {
-    "id": 188,
-    "en1": "code",
-    "en2": "The secret code was cracked.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Mã, luật"
-  },
-  {
-    "id": 189,
+    "id": 117,
     "en1": "commitment",
     "en2": "She made a commitment to the company.",
     "en3": "",
@@ -1520,15 +944,7 @@
     "vn1": "(Noun) Cam kết"
   },
   {
-    "id": 190,
-    "en1": "communication",
-    "en2": "Effective communication is essential.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Giao tiếp"
-  },
-  {
-    "id": 191,
+    "id": 118,
     "en1": "concentration",
     "en2": "I need concentration to study.",
     "en3": "",
@@ -1536,7 +952,7 @@
     "vn1": "(Noun) Tập trung"
   },
   {
-    "id": 192,
+    "id": 119,
     "en1": "conference",
     "en2": "The conference was a great success.",
     "en3": "",
@@ -1544,7 +960,7 @@
     "vn1": "(Noun) Hội nghị"
   },
   {
-    "id": 193,
+    "id": 120,
     "en1": "contrast",
     "en2": "The contrast between the two colors is striking.",
     "en3": "",
@@ -1552,7 +968,7 @@
     "vn1": "(Noun/Verb) Sự tương phản/tương phản"
   },
   {
-    "id": 194,
+    "id": 121,
     "en1": "cycle",
     "en2": "The water cycle is important for life.",
     "en3": "",
@@ -1560,7 +976,7 @@
     "vn1": "(Noun/Verb) Chu kỳ/đi xe đạp"
   },
   {
-    "id": 195,
+    "id": 122,
     "en1": "debate",
     "en2": "There was a heated debate about the issue.",
     "en3": "",
@@ -1568,15 +984,7 @@
     "vn1": "(Noun/Verb) Cuộc tranh luận/tranh luận"
   },
   {
-    "id": 196,
-    "en1": "despite",
-    "en2": "Despite the rain, we went for a walk.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Preposition) Mặc dù"
-  },
-  {
-    "id": 197,
+    "id": 123,
     "en1": "dimensions",
     "en2": "The dimensions of the room are 10 by 12 feet.",
     "en3": "",
@@ -1584,7 +992,7 @@
     "vn1": "(Noun (plural)) Kích thước"
   },
   {
-    "id": 198,
+    "id": 124,
     "en1": "domestic",
     "en2": "Domestic violence is a serious problem.",
     "en3": "",
@@ -1592,7 +1000,7 @@
     "vn1": "(Adjective) Nội địa, gia đình"
   },
   {
-    "id": 199,
+    "id": 125,
     "en1": "emerged",
     "en2": "A new trend has emerged.",
     "en3": "",
@@ -1600,15 +1008,7 @@
     "vn1": "(Verb (past participle)) Nổi lên"
   },
   {
-    "id": 200,
-    "en1": "error",
-    "en2": "There was an error in the calculations.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Lỗi"
-  },
-  {
-    "id": 201,
+    "id": 126,
     "en1": "ethnic",
     "en2": "The country has a diverse ethnic population.",
     "en3": "",
@@ -1616,15 +1016,7 @@
     "vn1": "(Adjective) Dân tộc"
   },
   {
-    "id": 202,
-    "en1": "goals",
-    "en2": "What are your goals for the future?",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun (plural)) Mục tiêu"
-  },
-  {
-    "id": 203,
+    "id": 127,
     "en1": "granted",
     "en2": "He was granted permission to leave.",
     "en3": "",
@@ -1632,7 +1024,7 @@
     "vn1": "(Verb (past participle)) Được cấp, cho phép"
   },
   {
-    "id": 204,
+    "id": 128,
     "en1": "hence",
     "en2": "It is raining; hence, we will stay inside.",
     "en3": "",
@@ -1640,7 +1032,7 @@
     "vn1": "(Adverb) Do đó"
   },
   {
-    "id": 205,
+    "id": 129,
     "en1": "hypothesis",
     "en2": "The scientist proposed a new hypothesis.",
     "en3": "",
@@ -1648,7 +1040,7 @@
     "vn1": "(Noun) Giả thuyết"
   },
   {
-    "id": 206,
+    "id": 130,
     "en1": "implementation",
     "en2": "The implementation of the plan was successful.",
     "en3": "",
@@ -1656,7 +1048,7 @@
     "vn1": "(Noun) Sự thực hiện"
   },
   {
-    "id": 207,
+    "id": 131,
     "en1": "implications",
     "en2": "The decision has serious implications.",
     "en3": "",
@@ -1664,7 +1056,7 @@
     "vn1": "(Noun (plural)) Ý nghĩa, hệ quả"
   },
   {
-    "id": 208,
+    "id": 132,
     "en1": "imposed",
     "en2": "The government imposed new taxes.",
     "en3": "",
@@ -1672,7 +1064,7 @@
     "vn1": "(Verb (past participle)) Áp đặt"
   },
   {
-    "id": 209,
+    "id": 133,
     "en1": "integration",
     "en2": "The integration of technology into education is important.",
     "en3": "",
@@ -1680,7 +1072,7 @@
     "vn1": "(Noun) Sự tích hợp"
   },
   {
-    "id": 210,
+    "id": 134,
     "en1": "internal",
     "en2": "There is an internal conflict within the company.",
     "en3": "",
@@ -1688,7 +1080,7 @@
     "vn1": "(Adjective) Nội bộ"
   },
   {
-    "id": 211,
+    "id": 135,
     "en1": "investigation",
     "en2": "The police launched an investigation.",
     "en3": "",
@@ -1696,23 +1088,7 @@
     "vn1": "(Noun) Điều tra"
   },
   {
-    "id": 212,
-    "en1": "job",
-    "en2": "He is looking for a new job.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Công việc"
-  },
-  {
-    "id": 213,
-    "en1": "label",
-    "en2": "The product has a misleading label.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Nhãn, nhãn hiệu/dán nhãn"
-  },
-  {
-    "id": 214,
+    "id": 136,
     "en1": "mechanism",
     "en2": "The mechanism of the machine is complex.",
     "en3": "",
@@ -1720,7 +1096,7 @@
     "vn1": "(Noun) Cơ chế"
   },
   {
-    "id": 215,
+    "id": 137,
     "en1": "obvious",
     "en2": "It is obvious that she is tired.",
     "en3": "",
@@ -1728,7 +1104,7 @@
     "vn1": "(Adjective) Rõ ràng"
   },
   {
-    "id": 216,
+    "id": 138,
     "en1": "occupational",
     "en2": "Occupational hazards are risks associated with a job.",
     "en3": "",
@@ -1736,15 +1112,7 @@
     "vn1": "(Adjective) Nghề nghiệp"
   },
   {
-    "id": 217,
-    "en1": "option",
-    "en2": "You have two options.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Lựa chọn"
-  },
-  {
-    "id": 218,
+    "id": 139,
     "en1": "output",
     "en2": "The factory's output has increased.",
     "en3": "",
@@ -1752,7 +1120,7 @@
     "vn1": "(Noun) Sản lượng"
   },
   {
-    "id": 219,
+    "id": 140,
     "en1": "overall",
     "en2": "The overall situation is good.",
     "en3": "",
@@ -1760,7 +1128,7 @@
     "vn1": "(Adjective) Tổng thể"
   },
   {
-    "id": 220,
+    "id": 141,
     "en1": "parallel",
     "en2": "The lines are parallel.",
     "en3": "",
@@ -1768,23 +1136,7 @@
     "vn1": "(Adjective/Noun) Song song/sự tương đồng"
   },
   {
-    "id": 221,
-    "en1": "parameters",
-    "en2": "The parameters of the study were clearly defined.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun (plural)) Tham số"
-  },
-  {
-    "id": 222,
-    "en1": "phase",
-    "en2": "The project is in the final phase.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Giai đoạn"
-  },
-  {
-    "id": 223,
+    "id": 142,
     "en1": "predicted",
     "en2": "The weather forecast predicted rain.",
     "en3": "",
@@ -1792,7 +1144,7 @@
     "vn1": "(Verb (past participle)) Dự đoán"
   },
   {
-    "id": 224,
+    "id": 143,
     "en1": "principal",
     "en2": "The principal cause of the problem is...",
     "en3": "",
@@ -1800,7 +1152,7 @@
     "vn1": "(Adjective/Noun) Chính, chủ yếu/hiệu trưởng"
   },
   {
-    "id": 225,
+    "id": 144,
     "en1": "prior",
     "en2": "Prior to the meeting, we should review the agenda.",
     "en3": "",
@@ -1808,23 +1160,7 @@
     "vn1": "(Adjective) Trước đó"
   },
   {
-    "id": 226,
-    "en1": "professional",
-    "en2": "She is a professional musician.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective/Noun) Chuyên nghiệp/chuyên gia"
-  },
-  {
-    "id": 227,
-    "en1": "project",
-    "en2": "The project is behind schedule.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Dự án/dự đoán"
-  },
-  {
-    "id": 228,
+    "id": 145,
     "en1": "promote",
     "en2": "The company is promoting a new product.",
     "en3": "",
@@ -1832,7 +1168,7 @@
     "vn1": "(Verb) Quảng bá, thăng chức"
   },
   {
-    "id": 229,
+    "id": 146,
     "en1": "regime",
     "en2": "The political regime was oppressive.",
     "en3": "",
@@ -1840,7 +1176,7 @@
     "vn1": "(Noun) Chế độ"
   },
   {
-    "id": 230,
+    "id": 147,
     "en1": "resolution",
     "en2": "The resolution of the problem is important.",
     "en3": "",
@@ -1848,7 +1184,7 @@
     "vn1": "(Noun) Nghị quyết, độ phân giải"
   },
   {
-    "id": 231,
+    "id": 148,
     "en1": "retained",
     "en2": "She retained her composure during the crisis.",
     "en3": "",
@@ -1856,7 +1192,7 @@
     "vn1": "(Verb (past participle)) Giữ lại"
   },
   {
-    "id": 232,
+    "id": 149,
     "en1": "series",
     "en2": "The TV series is popular.",
     "en3": "",
@@ -1864,23 +1200,7 @@
     "vn1": "(Noun) Loạt, chuỗi"
   },
   {
-    "id": 233,
-    "en1": "statistics",
-    "en2": "The statistics show a rise in unemployment.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun (plural)) Thống kê"
-  },
-  {
-    "id": 234,
-    "en1": "status",
-    "en2": "What is the status of the project?",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Trạng thái"
-  },
-  {
-    "id": 235,
+    "id": 150,
     "en1": "stress",
     "en2": "She is under a lot of stress.",
     "en3": "",
@@ -1888,7 +1208,7 @@
     "vn1": "(Noun/Verb) Áp lực/nhấn mạnh"
   },
   {
-    "id": 236,
+    "id": 151,
     "en1": "subsequent",
     "en2": "Subsequent events confirmed our suspicions.",
     "en3": "",
@@ -1896,15 +1216,7 @@
     "vn1": "(Adjective) Tiếp theo"
   },
   {
-    "id": 237,
-    "en1": "sum",
-    "en2": "The sum of 2 and 3 is 5.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Tổng/tổng kết"
-  },
-  {
-    "id": 238,
+    "id": 152,
     "en1": "summary",
     "en2": "The report includes a summary of the findings.",
     "en3": "",
@@ -1912,7 +1224,7 @@
     "vn1": "(Noun) Tóm tắt"
   },
   {
-    "id": 239,
+    "id": 153,
     "en1": "undertaken",
     "en2": "The company has undertaken a new project.",
     "en3": "",
@@ -1920,7 +1232,7 @@
     "vn1": "(Verb (past participle)) Đảm nhận"
   },
   {
-    "id": 240,
+    "id": 154,
     "en1": "marginal",
     "en2": "The changes had a marginal effect.",
     "en3": "",
@@ -1928,7 +1240,7 @@
     "vn1": "(Adjective) Biên, nhỏ"
   },
   {
-    "id": 241,
+    "id": 155,
     "en1": "medical",
     "en2": "He is studying to become a medical doctor.",
     "en3": "",
@@ -1936,7 +1248,7 @@
     "vn1": "(Adjective) Y khoa"
   },
   {
-    "id": 242,
+    "id": 156,
     "en1": "mental",
     "en2": "She has good mental health.",
     "en3": "",
@@ -1944,7 +1256,7 @@
     "vn1": "(Adjective) Tâm trí, tinh thần"
   },
   {
-    "id": 243,
+    "id": 157,
     "en1": "modified",
     "en2": "The car has been modified.",
     "en3": "",
@@ -1952,7 +1264,7 @@
     "vn1": "(Verb (past participle)) Sửa đổi"
   },
   {
-    "id": 244,
+    "id": 158,
     "en1": "monitoring",
     "en2": "The project is under constant monitoring.",
     "en3": "",
@@ -1960,15 +1272,7 @@
     "vn1": "(Noun) Giám sát"
   },
   {
-    "id": 245,
-    "en1": "network",
-    "en2": "He has a large social network.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Mạng lưới"
-  },
-  {
-    "id": 246,
+    "id": 159,
     "en1": "notion",
     "en2": "The notion of time travel is fascinating.",
     "en3": "",
@@ -1976,7 +1280,7 @@
     "vn1": "(Noun) Khái niệm"
   },
   {
-    "id": 247,
+    "id": 160,
     "en1": "objective",
     "en2": "The study was conducted objectively.",
     "en3": "",
@@ -1984,7 +1288,7 @@
     "vn1": "(Adjective/Noun) Khách quan/mục tiêu"
   },
   {
-    "id": 248,
+    "id": 161,
     "en1": "orientation",
     "en2": "The course provides an orientation to the subject.",
     "en3": "",
@@ -1992,7 +1296,7 @@
     "vn1": "(Noun) Định hướng"
   },
   {
-    "id": 249,
+    "id": 162,
     "en1": "perspective",
     "en2": "Try to see things from their perspective.",
     "en3": "",
@@ -2000,7 +1304,7 @@
     "vn1": "(Noun) Quan điểm"
   },
   {
-    "id": 250,
+    "id": 163,
     "en1": "precise",
     "en2": "The measurements must be precise.",
     "en3": "",
@@ -2008,7 +1312,7 @@
     "vn1": "(Adjective) Chính xác"
   },
   {
-    "id": 251,
+    "id": 164,
     "en1": "prime",
     "en2": "This is a prime example of the problem.",
     "en3": "",
@@ -2016,7 +1320,7 @@
     "vn1": "(Adjective/Noun) Chính, chủ yếu/thời kỳ đỉnh cao"
   },
   {
-    "id": 252,
+    "id": 165,
     "en1": "psychology",
     "en2": "He studied psychology at university.",
     "en3": "",
@@ -2024,7 +1328,7 @@
     "vn1": "(Noun) Tâm lý học"
   },
   {
-    "id": 253,
+    "id": 166,
     "en1": "pursue",
     "en2": "She is pursuing a career in law.",
     "en3": "",
@@ -2032,7 +1336,7 @@
     "vn1": "(Verb) Theo đuổi"
   },
   {
-    "id": 254,
+    "id": 167,
     "en1": "ratio",
     "en2": "The ratio of men to women is 2:1.",
     "en3": "",
@@ -2040,7 +1344,7 @@
     "vn1": "(Noun) Tỷ lệ"
   },
   {
-    "id": 255,
+    "id": 168,
     "en1": "rejected",
     "en2": "The proposal was rejected.",
     "en3": "",
@@ -2048,7 +1352,7 @@
     "vn1": "(Verb (past participle)) Từ chối"
   },
   {
-    "id": 256,
+    "id": 169,
     "en1": "revenue",
     "en2": "The company's revenue increased.",
     "en3": "",
@@ -2056,7 +1360,7 @@
     "vn1": "(Noun) Doanh thu"
   },
   {
-    "id": 257,
+    "id": 170,
     "en1": "stability",
     "en2": "The country needs economic stability.",
     "en3": "",
@@ -2064,15 +1368,7 @@
     "vn1": "(Noun) Sự ổn định"
   },
   {
-    "id": 258,
-    "en1": "styles",
-    "en2": "There are different styles of music.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun (plural)) Kiểu cách"
-  },
-  {
-    "id": 259,
+    "id": 171,
     "en1": "substitution",
     "en2": "The substitution of one player for another.",
     "en3": "",
@@ -2080,7 +1376,7 @@
     "vn1": "(Noun) Sự thay thế"
   },
   {
-    "id": 260,
+    "id": 172,
     "en1": "sustainable",
     "en2": "We need to find sustainable solutions to climate change.",
     "en3": "",
@@ -2088,7 +1384,7 @@
     "vn1": "(Adjective) Bền vững"
   },
   {
-    "id": 261,
+    "id": 173,
     "en1": "symbolic",
     "en2": "The dove is a symbol of peace.",
     "en3": "",
@@ -2096,15 +1392,7 @@
     "vn1": "(Adjective) Mang tính tượng trưng"
   },
   {
-    "id": 262,
-    "en1": "target",
-    "en2": "The target audience for the product is young people.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Mục tiêu/nhắm vào"
-  },
-  {
-    "id": 263,
+    "id": 174,
     "en1": "transition",
     "en2": "The country is undergoing a political transition.",
     "en3": "",
@@ -2112,23 +1400,7 @@
     "vn1": "(Noun/Verb) Sự chuyển tiếp/chuyển tiếp"
   },
   {
-    "id": 264,
-    "en1": "trend",
-    "en2": "There is a trend towards online shopping.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Xu hướng"
-  },
-  {
-    "id": 265,
-    "en1": "version",
-    "en2": "This is the latest version of the software.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Phiên bản"
-  },
-  {
-    "id": 266,
+    "id": 175,
     "en1": "welfare",
     "en2": "The government is concerned about social welfare.",
     "en3": "",
@@ -2136,7 +1408,7 @@
     "vn1": "(Noun) Phúc lợi"
   },
   {
-    "id": 267,
+    "id": 176,
     "en1": "whereas",
     "en2": "She likes coffee, whereas I prefer tea.",
     "en3": "",
@@ -2144,7 +1416,7 @@
     "vn1": "(Conjunction) Trong khi"
   },
   {
-    "id": 268,
+    "id": 177,
     "en1": "academic",
     "en2": "She has an academic background.",
     "en3": "",
@@ -2152,7 +1424,7 @@
     "vn1": "(Adjective) Học thuật"
   },
   {
-    "id": 269,
+    "id": 178,
     "en1": "adjustment",
     "en2": "He made some adjustments to the plan.",
     "en3": "",
@@ -2160,7 +1432,7 @@
     "vn1": "(Noun) Sự điều chỉnh"
   },
   {
-    "id": 270,
+    "id": 179,
     "en1": "alter",
     "en2": "The plans have been altered.",
     "en3": "",
@@ -2168,7 +1440,7 @@
     "vn1": "(Verb) Thay đổi"
   },
   {
-    "id": 271,
+    "id": 180,
     "en1": "amendment",
     "en2": "The amendment was passed by the government.",
     "en3": "",
@@ -2176,7 +1448,7 @@
     "vn1": "(Noun) Sửa đổi"
   },
   {
-    "id": 272,
+    "id": 181,
     "en1": "aware",
     "en2": "Are you aware of the problem?",
     "en3": "",
@@ -2184,7 +1456,7 @@
     "vn1": "(Adjective) Nhận thức"
   },
   {
-    "id": 273,
+    "id": 182,
     "en1": "capacity",
     "en2": "The stadium has a capacity of 50,000 people.",
     "en3": "",
@@ -2192,15 +1464,7 @@
     "vn1": "(Noun) Khả năng"
   },
   {
-    "id": 274,
-    "en1": "challenge",
-    "en2": "Climbing the mountain was a challenge.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Thử thách/thách thức"
-  },
-  {
-    "id": 275,
+    "id": 183,
     "en1": "clause",
     "en2": "The contract includes a clause about termination.",
     "en3": "",
@@ -2208,7 +1472,7 @@
     "vn1": "(Noun) Điều khoản"
   },
   {
-    "id": 276,
+    "id": 184,
     "en1": "compounds",
     "en2": "Water is a compound of hydrogen and oxygen.",
     "en3": "",
@@ -2216,15 +1480,7 @@
     "vn1": "(Noun (plural)) Hợp chất"
   },
   {
-    "id": 277,
-    "en1": "conflict",
-    "en2": "There is a conflict between the two groups.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Xung đột/mâu thuẫn"
-  },
-  {
-    "id": 278,
+    "id": 185,
     "en1": "consultation",
     "en2": "We need to have a consultation about the project.",
     "en3": "",
@@ -2232,15 +1488,7 @@
     "vn1": "(Noun) Sự tham khảo ý kiến"
   },
   {
-    "id": 279,
-    "en1": "contact",
-    "en2": "Please contact me by email.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Liên lạc/liên lạc"
-  },
-  {
-    "id": 280,
+    "id": 186,
     "en1": "decline",
     "en2": "The economy is declining.",
     "en3": "",
@@ -2248,7 +1496,7 @@
     "vn1": "(Verb/Noun) Từ chối/sự suy giảm"
   },
   {
-    "id": 281,
+    "id": 187,
     "en1": "discretion",
     "en2": "The decision is left to your discretion.",
     "en3": "",
@@ -2256,7 +1504,7 @@
     "vn1": "(Noun) Sự thận trọng"
   },
   {
-    "id": 282,
+    "id": 188,
     "en1": "draft",
     "en2": "This is just a draft of the report.",
     "en3": "",
@@ -2264,23 +1512,7 @@
     "vn1": "(Noun/Verb) Bản nháp/soạn thảo"
   },
   {
-    "id": 283,
-    "en1": "enable",
-    "en2": "The new software enables us to work more efficiently.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb) Cho phép"
-  },
-  {
-    "id": 284,
-    "en1": "energy",
-    "en2": "We need to save energy.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Năng lượng"
-  },
-  {
-    "id": 285,
+    "id": 189,
     "en1": "enforcement",
     "en2": "The enforcement of the law is important.",
     "en3": "",
@@ -2288,15 +1520,7 @@
     "vn1": "(Noun) Thi hành"
   },
   {
-    "id": 286,
-    "en1": "entities",
-    "en2": "The company is a legal entity.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun (plural)) Thực thể"
-  },
-  {
-    "id": 287,
+    "id": 190,
     "en1": "equivalent",
     "en2": "The two terms are equivalent.",
     "en3": "",
@@ -2304,7 +1528,7 @@
     "vn1": "(Adjective/Noun) Tương đương/cái tương đương"
   },
   {
-    "id": 288,
+    "id": 191,
     "en1": "evolution",
     "en2": "The evolution of the human species.",
     "en3": "",
@@ -2312,7 +1536,7 @@
     "vn1": "(Noun) Sự tiến hóa"
   },
   {
-    "id": 289,
+    "id": 192,
     "en1": "expansion",
     "en2": "The company is planning an expansion.",
     "en3": "",
@@ -2320,7 +1544,7 @@
     "vn1": "(Noun) Sự mở rộng"
   },
   {
-    "id": 290,
+    "id": 193,
     "en1": "exposure",
     "en2": "Exposure to sunlight is good for you.",
     "en3": "",
@@ -2328,7 +1552,7 @@
     "vn1": "(Noun) Sự tiếp xúc"
   },
   {
-    "id": 291,
+    "id": 194,
     "en1": "external",
     "en2": "There are external factors affecting the situation.",
     "en3": "",
@@ -2336,7 +1560,7 @@
     "vn1": "(Adjective) Bên ngoài"
   },
   {
-    "id": 292,
+    "id": 195,
     "en1": "facilitate",
     "en2": "Technology can facilitate communication.",
     "en3": "",
@@ -2344,7 +1568,7 @@
     "vn1": "(Verb) Tạo điều kiện"
   },
   {
-    "id": 293,
+    "id": 196,
     "en1": "fundamental",
     "en2": "This is a fundamental principle of science.",
     "en3": "",
@@ -2352,31 +1576,7 @@
     "vn1": "(Adjective) Cơ bản"
   },
   {
-    "id": 294,
-    "en1": "generated",
-    "en2": "The computer generated a report.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb (past participle)) Tạo ra"
-  },
-  {
-    "id": 295,
-    "en1": "generation",
-    "en2": "The younger generation is more tech-savvy.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Thế hệ"
-  },
-  {
-    "id": 296,
-    "en1": "image",
-    "en2": "The company has a positive image.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Hình ảnh"
-  },
-  {
-    "id": 297,
+    "id": 197,
     "en1": "liberal",
     "en2": "He has liberal views on politics.",
     "en3": "",
@@ -2384,7 +1584,7 @@
     "vn1": "(Adjective) Tự do"
   },
   {
-    "id": 298,
+    "id": 198,
     "en1": "licence",
     "en2": "You need a driving license.",
     "en3": "",
@@ -2392,31 +1592,7 @@
     "vn1": "(Noun) Giấy phép"
   },
   {
-    "id": 299,
-    "en1": "logic",
-    "en2": "His argument was based on sound logic.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Logic"
-  },
-  {
-    "id": 300,
-    "en1": "abstract",
-    "en2": "The concept is too abstract.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective/Noun) Trừu tượng/tóm tắt"
-  },
-  {
-    "id": 301,
-    "en1": "accurate",
-    "en2": "The information is accurate.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Chính xác"
-  },
-  {
-    "id": 302,
+    "id": 199,
     "en1": "acknowledged",
     "en2": "His contribution was acknowledged.",
     "en3": "",
@@ -2424,7 +1600,7 @@
     "vn1": "(Verb (past participle)) Công nhận"
   },
   {
-    "id": 303,
+    "id": 200,
     "en1": "aggregate",
     "en2": "The aggregate score was high.",
     "en3": "",
@@ -2432,7 +1608,7 @@
     "vn1": "(Adjective/Noun) Tổng hợp/tổng thể"
   },
   {
-    "id": 304,
+    "id": 201,
     "en1": "allocation",
     "en2": "The allocation of resources is important.",
     "en3": "",
@@ -2440,15 +1616,7 @@
     "vn1": "(Noun) Sự phân bổ"
   },
   {
-    "id": 305,
-    "en1": "assigned",
-    "en2": "He was assigned to a new project.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb (past participle)) Được giao"
-  },
-  {
-    "id": 306,
+    "id": 202,
     "en1": "attached",
     "en2": "The file is attached to the email.",
     "en3": "",
@@ -2456,15 +1624,7 @@
     "vn1": "(Verb (past participle)) Được đính kèm"
   },
   {
-    "id": 307,
-    "en1": "author",
-    "en2": "The author of the book is famous.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Tác giả"
-  },
-  {
-    "id": 308,
+    "id": 203,
     "en1": "bond",
     "en2": "The government issued a new bond.",
     "en3": "",
@@ -2472,7 +1632,7 @@
     "vn1": "(Noun/Verb) Trái phiếu/liên kết"
   },
   {
-    "id": 309,
+    "id": 204,
     "en1": "brief",
     "en2": "The meeting was brief.",
     "en3": "",
@@ -2480,7 +1640,7 @@
     "vn1": "(Adjective/Noun) Ngắn gọn/bản tóm tắt"
   },
   {
-    "id": 310,
+    "id": 205,
     "en1": "capable",
     "en2": "She is capable of doing the job.",
     "en3": "",
@@ -2488,7 +1648,7 @@
     "vn1": "(Adjective) Có khả năng"
   },
   {
-    "id": 311,
+    "id": 206,
     "en1": "cited",
     "en2": "The study was cited by many researchers.",
     "en3": "",
@@ -2496,7 +1656,7 @@
     "vn1": "(Verb (past participle)) Được trích dẫn"
   },
   {
-    "id": 312,
+    "id": 207,
     "en1": "cooperative",
     "en2": "The team was very cooperative.",
     "en3": "",
@@ -2504,7 +1664,7 @@
     "vn1": "(Adjective) Hợp tác"
   },
   {
-    "id": 313,
+    "id": 208,
     "en1": "discrimination",
     "en2": "Discrimination is illegal.",
     "en3": "",
@@ -2512,7 +1672,7 @@
     "vn1": "(Noun) Sự phân biệt đối xử"
   },
   {
-    "id": 314,
+    "id": 209,
     "en1": "display",
     "en2": "The store has a beautiful display of flowers.",
     "en3": "",
@@ -2520,7 +1680,7 @@
     "vn1": "(Noun/Verb) Màn hình/hiển thị"
   },
   {
-    "id": 315,
+    "id": 210,
     "en1": "diversity",
     "en2": "The city has a diverse population.",
     "en3": "",
@@ -2528,7 +1688,7 @@
     "vn1": "(Noun) Sự đa dạng"
   },
   {
-    "id": 316,
+    "id": 211,
     "en1": "domain",
     "en2": "He is an expert in the domain of physics.",
     "en3": "",
@@ -2536,23 +1696,7 @@
     "vn1": "(Noun) Lĩnh vực"
   },
   {
-    "id": 317,
-    "en1": "edition",
-    "en2": "This is the second edition of the book.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Phiên bản"
-  },
-  {
-    "id": 318,
-    "en1": "enhanced",
-    "en2": "The new software enhanced productivity.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb (past participle)) Được nâng cao"
-  },
-  {
-    "id": 319,
+    "id": 212,
     "en1": "estate",
     "en2": "He inherited a large estate.",
     "en3": "",
@@ -2560,7 +1704,7 @@
     "vn1": "(Noun) Điền sản"
   },
   {
-    "id": 320,
+    "id": 213,
     "en1": "exceed",
     "en2": "The costs exceeded the budget.",
     "en3": "",
@@ -2568,15 +1712,7 @@
     "vn1": "(Verb) Vượt quá"
   },
   {
-    "id": 321,
-    "en1": "expert",
-    "en2": "She is an expert in her field.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Adjective) Chuyên gia/chuyên môn"
-  },
-  {
-    "id": 322,
+    "id": 214,
     "en1": "explicit",
     "en2": "The instructions were explicit.",
     "en3": "",
@@ -2584,7 +1720,7 @@
     "vn1": "(Adjective) Rõ ràng"
   },
   {
-    "id": 323,
+    "id": 215,
     "en1": "federal",
     "en2": "The federal government is responsible for...",
     "en3": "",
@@ -2592,47 +1728,7 @@
     "vn1": "(Adjective) Liên bang"
   },
   {
-    "id": 324,
-    "en1": "fees",
-    "en2": "There are no admission fees.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun (plural)) Phí"
-  },
-  {
-    "id": 325,
-    "en1": "flexibility",
-    "en2": "The job requires flexibility.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Sự linh hoạt"
-  },
-  {
-    "id": 326,
-    "en1": "furthermore",
-    "en2": "Furthermore, the study found that...",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adverb) Hơn nữa"
-  },
-  {
-    "id": 327,
-    "en1": "gender",
-    "en2": "Gender equality is important.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Giới tính"
-  },
-  {
-    "id": 328,
-    "en1": "ignored",
-    "en2": "The problem was ignored for too long.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb (past participle)) Lờ đi"
-  },
-  {
-    "id": 329,
+    "id": 216,
     "en1": "incentive",
     "en2": "The bonus is a good incentive to work harder.",
     "en3": "",
@@ -2640,7 +1736,7 @@
     "vn1": "(Noun) Sự khuyến khích"
   },
   {
-    "id": 330,
+    "id": 217,
     "en1": "incidence",
     "en2": "The incidence of crime is increasing.",
     "en3": "",
@@ -2648,7 +1744,7 @@
     "vn1": "(Noun) Tỷ lệ"
   },
   {
-    "id": 331,
+    "id": 218,
     "en1": "incorporated",
     "en2": "The company was incorporated in 2000.",
     "en3": "",
@@ -2656,15 +1752,7 @@
     "vn1": "(Verb (past participle)) Được kết hợp"
   },
   {
-    "id": 332,
-    "en1": "index",
-    "en2": "The index at the back of the book is helpful.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Chỉ số, mục lục"
-  },
-  {
-    "id": 333,
+    "id": 219,
     "en1": "inhibition",
     "en2": "She overcame her inhibition and spoke up.",
     "en3": "",
@@ -2672,7 +1760,7 @@
     "vn1": "(Noun) Sự ức chế"
   },
   {
-    "id": 334,
+    "id": 220,
     "en1": "initiatives",
     "en2": "The government launched new initiatives to create jobs.",
     "en3": "",
@@ -2680,15 +1768,7 @@
     "vn1": "(Noun (plural)) Sáng kiến"
   },
   {
-    "id": 335,
-    "en1": "input",
-    "en2": "Your input is valuable.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Đầu vào/nhập liệu"
-  },
-  {
-    "id": 336,
+    "id": 221,
     "en1": "instructions",
     "en2": "Follow the instructions carefully.",
     "en3": "",
@@ -2696,15 +1776,7 @@
     "vn1": "(Noun (plural)) Hướng dẫn"
   },
   {
-    "id": 337,
-    "en1": "intelligence",
-    "en2": "Artificial intelligence is developing rapidly.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Trí thông minh"
-  },
-  {
-    "id": 338,
+    "id": 222,
     "en1": "interval",
     "en2": "There was a 10-minute interval between the acts.",
     "en3": "",
@@ -2712,7 +1784,7 @@
     "vn1": "(Noun) Khoảng thời gian"
   },
   {
-    "id": 339,
+    "id": 223,
     "en1": "lecture",
     "en2": "The professor gave an interesting lecture.",
     "en3": "",
@@ -2720,23 +1792,7 @@
     "vn1": "(Noun/Verb) Bài giảng/giảng bài"
   },
   {
-    "id": 340,
-    "en1": "migration",
-    "en2": "The bird's migration to warmer climates.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Di cư"
-  },
-  {
-    "id": 341,
-    "en1": "minimum",
-    "en2": "The minimum age for driving is 18.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective/Noun) Tối thiểu/giá trị nhỏ nhất"
-  },
-  {
-    "id": 342,
+    "id": 224,
     "en1": "ministry",
     "en2": "The Ministry of Education.",
     "en3": "",
@@ -2744,7 +1800,7 @@
     "vn1": "(Noun) Bộ (tổ chức chính phủ)"
   },
   {
-    "id": 343,
+    "id": 225,
     "en1": "motivation",
     "en2": "Students need motivation to learn.",
     "en3": "",
@@ -2752,7 +1808,7 @@
     "vn1": "(Noun) Động lực"
   },
   {
-    "id": 344,
+    "id": 226,
     "en1": "neutral",
     "en2": "He tried to remain neutral in the argument.",
     "en3": "",
@@ -2760,7 +1816,7 @@
     "vn1": "(Adjective) Trung lập"
   },
   {
-    "id": 345,
+    "id": 227,
     "en1": "nevertheless",
     "en2": "It was raining, nevertheless, we went for a walk.",
     "en3": "",
@@ -2768,7 +1824,7 @@
     "vn1": "(Adverb) Tuy nhiên"
   },
   {
-    "id": 346,
+    "id": 228,
     "en1": "overseas",
     "en2": "She lived overseas for many years.",
     "en3": "",
@@ -2776,7 +1832,7 @@
     "vn1": "(Adverb/Adjective) Ở nước ngoài/nước ngoài"
   },
   {
-    "id": 347,
+    "id": 229,
     "en1": "preceding",
     "en2": "In the preceding chapter, we discussed...",
     "en3": "",
@@ -2784,7 +1840,7 @@
     "vn1": "(Adjective) Trước đó"
   },
   {
-    "id": 348,
+    "id": 230,
     "en1": "presumption",
     "en2": "The presumption of innocence is a legal principle.",
     "en3": "",
@@ -2792,7 +1848,7 @@
     "vn1": "(Noun) Sự giả định"
   },
   {
-    "id": 349,
+    "id": 231,
     "en1": "rational",
     "en2": "It's not rational to believe in ghosts.",
     "en3": "",
@@ -2800,7 +1856,7 @@
     "vn1": "(Adjective) Hợp lý"
   },
   {
-    "id": 350,
+    "id": 232,
     "en1": "recovery",
     "en2": "The patient made a full recovery.",
     "en3": "",
@@ -2808,7 +1864,7 @@
     "vn1": "(Noun) Sự phục hồi"
   },
   {
-    "id": 351,
+    "id": 233,
     "en1": "revealed",
     "en2": "The secret was finally revealed.",
     "en3": "",
@@ -2816,7 +1872,7 @@
     "vn1": "(Verb (past participle)) Được tiết lộ"
   },
   {
-    "id": 352,
+    "id": 234,
     "en1": "scope",
     "en2": "The scope of the project is limited.",
     "en3": "",
@@ -2824,7 +1880,7 @@
     "vn1": "(Noun) Phạm vi"
   },
   {
-    "id": 353,
+    "id": 235,
     "en1": "subsidiary",
     "en2": "The company has several subsidiaries.",
     "en3": "",
@@ -2832,7 +1888,7 @@
     "vn1": "(Noun/Adjective) Công ty con/phụ thuộc"
   },
   {
-    "id": 354,
+    "id": 236,
     "en1": "tapes",
     "en2": "The police found the tapes.",
     "en3": "",
@@ -2840,7 +1896,7 @@
     "vn1": "(Noun (plural)) Băng ghi âm"
   },
   {
-    "id": 355,
+    "id": 237,
     "en1": "trace",
     "en2": "There was no trace of the missing person.",
     "en3": "",
@@ -2848,7 +1904,7 @@
     "vn1": "(Noun/Verb) Vết tích/dò tìm"
   },
   {
-    "id": 356,
+    "id": 238,
     "en1": "transformation",
     "en2": "The city has undergone a transformation.",
     "en3": "",
@@ -2856,7 +1912,7 @@
     "vn1": "(Noun) Sự chuyển đổi"
   },
   {
-    "id": 357,
+    "id": 239,
     "en1": "transport",
     "en2": "Public transport is efficient.",
     "en3": "",
@@ -2864,7 +1920,7 @@
     "vn1": "(Noun/Verb) Vận chuyển/vận chuyển"
   },
   {
-    "id": 358,
+    "id": 240,
     "en1": "underlying",
     "en2": "There is an underlying problem.",
     "en3": "",
@@ -2872,7 +1928,7 @@
     "vn1": "(Adjective) Cơ bản, tiềm ẩn"
   },
   {
-    "id": 359,
+    "id": 241,
     "en1": "utility",
     "en2": "Public utilities include water and electricity.",
     "en3": "",
@@ -2880,7 +1936,7 @@
     "vn1": "(Noun) Tiện ích"
   },
   {
-    "id": 360,
+    "id": 242,
     "en1": "adaptation",
     "en2": "The adaptation to a new environment can be challenging.",
     "en3": "",
@@ -2888,15 +1944,7 @@
     "vn1": "(Noun) Sự thích nghi"
   },
   {
-    "id": 361,
-    "en1": "adults",
-    "en2": "The film is rated R for adults only.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun (plural)) Người trưởng thành"
-  },
-  {
-    "id": 362,
+    "id": 243,
     "en1": "advocate",
     "en2": "She is an advocate for animal rights.",
     "en3": "",
@@ -2904,7 +1952,7 @@
     "vn1": "(Noun/Verb) Người ủng hộ/ủng hộ"
   },
   {
-    "id": 363,
+    "id": 244,
     "en1": "aid",
     "en2": "The organization provides aid to disaster victims.",
     "en3": "",
@@ -2912,7 +1960,7 @@
     "vn1": "(Noun/Verb) Sự giúp đỡ/giúp đỡ"
   },
   {
-    "id": 364,
+    "id": 245,
     "en1": "channel",
     "en2": "The TV channel is showing a documentary.",
     "en3": "",
@@ -2920,15 +1968,7 @@
     "vn1": "(Noun/Verb) Kênh/hướng dẫn"
   },
   {
-    "id": 365,
-    "en1": "chemical",
-    "en2": "There are harmful chemicals in the water.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective/Noun) Hóa học/hóa chất"
-  },
-  {
-    "id": 366,
+    "id": 246,
     "en1": "classical",
     "en2": "She enjoys classical music.",
     "en3": "",
@@ -2936,7 +1976,7 @@
     "vn1": "(Adjective) Cổ điển"
   },
   {
-    "id": 367,
+    "id": 247,
     "en1": "comprehensive",
     "en2": "The book provides a comprehensive overview of the topic.",
     "en3": "",
@@ -2944,7 +1984,7 @@
     "vn1": "(Adjective) Toàn diện"
   },
   {
-    "id": 368,
+    "id": 248,
     "en1": "comprise",
     "en2": "The group comprises five members.",
     "en3": "",
@@ -2952,15 +1992,7 @@
     "vn1": "(Verb) Bao gồm"
   },
   {
-    "id": 369,
-    "en1": "confirmed",
-    "en2": "The booking has been confirmed.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb (past participle)) Được xác nhận"
-  },
-  {
-    "id": 370,
+    "id": 249,
     "en1": "contrary",
     "en2": "Contrary to popular belief...",
     "en3": "",
@@ -2968,7 +2000,7 @@
     "vn1": "(Adjective/Noun) Trái ngược/điều ngược lại"
   },
   {
-    "id": 371,
+    "id": 250,
     "en1": "converted",
     "en2": "The old factory was converted into a museum.",
     "en3": "",
@@ -2976,23 +2008,7 @@
     "vn1": "(Verb (past participle)) Được chuyển đổi"
   },
   {
-    "id": 372,
-    "en1": "couple",
-    "en2": "The couple is happy together.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Cặp đôi/kết hợp"
-  },
-  {
-    "id": 373,
-    "en1": "decades",
-    "en2": "The event happened decades ago.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun (plural)) Thập kỷ"
-  },
-  {
-    "id": 374,
+    "id": 251,
     "en1": "definite",
     "en2": "We need a definite answer.",
     "en3": "",
@@ -3000,15 +2016,7 @@
     "vn1": "(Adjective) Rõ ràng"
   },
   {
-    "id": 375,
-    "en1": "deny",
-    "en2": "He denied the accusation.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb) Phủ nhận"
-  },
-  {
-    "id": 376,
+    "id": 252,
     "en1": "differentiation",
     "en2": "The differentiation between the two products is clear.",
     "en3": "",
@@ -3016,7 +2024,7 @@
     "vn1": "(Noun) Sự phân biệt"
   },
   {
-    "id": 377,
+    "id": 253,
     "en1": "disposal",
     "en2": "Waste disposal is a major problem.",
     "en3": "",
@@ -3024,15 +2032,7 @@
     "vn1": "(Noun) Sự xử lý"
   },
   {
-    "id": 378,
-    "en1": "dynamic",
-    "en2": "She is a dynamic leader.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Năng động"
-  },
-  {
-    "id": 379,
+    "id": 254,
     "en1": "eliminate",
     "en2": "The problem has been eliminated.",
     "en3": "",
@@ -3040,7 +2040,7 @@
     "vn1": "(Verb) Loại bỏ"
   },
   {
-    "id": 380,
+    "id": 255,
     "en1": "empirical",
     "en2": "The research is based on empirical data.",
     "en3": "",
@@ -3048,15 +2048,7 @@
     "vn1": "(Adjective) Kinh nghiệm"
   },
   {
-    "id": 381,
-    "en1": "equipment",
-    "en2": "The laboratory has the latest equipment.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Thiết bị"
-  },
-  {
-    "id": 382,
+    "id": 256,
     "en1": "extract",
     "en2": "The dentist extracted the tooth.",
     "en3": "",
@@ -3064,15 +2056,7 @@
     "vn1": "(Verb/Noun) Trích xuất/trích đoạn"
   },
   {
-    "id": 383,
-    "en1": "file",
-    "en2": "I saved the file on my computer.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Tệp tin/lưu trữ"
-  },
-  {
-    "id": 384,
+    "id": 257,
     "en1": "finite",
     "en2": "The earth's resources are finite.",
     "en3": "",
@@ -3080,31 +2064,7 @@
     "vn1": "(Adjective) Hữu hạn"
   },
   {
-    "id": 385,
-    "en1": "foundation",
-    "en2": "The foundation of the building is strong.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Nền tảng"
-  },
-  {
-    "id": 386,
-    "en1": "global",
-    "en2": "Climate change is a global issue.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Toàn cầu"
-  },
-  {
-    "id": 387,
-    "en1": "grade",
-    "en2": "She got an A grade on the test.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Điểm số/đánh giá"
-  },
-  {
-    "id": 388,
+    "id": 258,
     "en1": "guarantee",
     "en2": "The product has a one-year guarantee.",
     "en3": "",
@@ -3112,7 +2072,7 @@
     "vn1": "(Noun/Verb) Bảo đảm/bảo đảm"
   },
   {
-    "id": 389,
+    "id": 259,
     "en1": "hierarchical",
     "en2": "The company has a hierarchical structure.",
     "en3": "",
@@ -3120,7 +2080,7 @@
     "vn1": "(Adjective) Có hệ thống cấp bậc"
   },
   {
-    "id": 390,
+    "id": 260,
     "en1": "identical",
     "en2": "The twins are identical.",
     "en3": "",
@@ -3128,7 +2088,7 @@
     "vn1": "(Adjective) Giống hệt"
   },
   {
-    "id": 391,
+    "id": 261,
     "en1": "inferred",
     "en2": "It can be inferred from the data that...",
     "en3": "",
@@ -3136,7 +2096,7 @@
     "vn1": "(Verb (past participle)) Suy ra"
   },
   {
-    "id": 392,
+    "id": 262,
     "en1": "innovation",
     "en2": "The company is known for its innovation.",
     "en3": "",
@@ -3144,15 +2104,7 @@
     "vn1": "(Noun) Sự đổi mới"
   },
   {
-    "id": 393,
-    "en1": "insert",
-    "en2": "Insert the key into the lock.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb) Chèn vào"
-  },
-  {
-    "id": 394,
+    "id": 263,
     "en1": "intervention",
     "en2": "The government's intervention in the economy.",
     "en3": "",
@@ -3160,7 +2112,7 @@
     "vn1": "(Noun) Sự can thiệp"
   },
   {
-    "id": 395,
+    "id": 264,
     "en1": "isolated",
     "en2": "The village is isolated from the rest of the world.",
     "en3": "",
@@ -3168,15 +2120,7 @@
     "vn1": "(Adjective) Cô lập"
   },
   {
-    "id": 396,
-    "en1": "media",
-    "en2": "The media reported the news.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Phương tiện truyền thông"
-  },
-  {
-    "id": 397,
+    "id": 265,
     "en1": "mode",
     "en2": "The phone has a silent mode.",
     "en3": "",
@@ -3184,7 +2128,7 @@
     "vn1": "(Noun) Kiểu, chế độ"
   },
   {
-    "id": 398,
+    "id": 266,
     "en1": "paradigm",
     "en2": "There was a paradigm shift in the industry.",
     "en3": "",
@@ -3192,7 +2136,7 @@
     "vn1": "(Noun) Mô hình"
   },
   {
-    "id": 399,
+    "id": 267,
     "en1": "phenomenon",
     "en2": "Climate change is a global phenomenon.",
     "en3": "",
@@ -3200,7 +2144,7 @@
     "vn1": "(Noun) Hiện tượng"
   },
   {
-    "id": 400,
+    "id": 268,
     "en1": "priority",
     "en2": "My priority is to finish this report.",
     "en3": "",
@@ -3208,7 +2152,7 @@
     "vn1": "(Noun) Ưu tiên"
   },
   {
-    "id": 401,
+    "id": 269,
     "en1": "prohibited",
     "en2": "Smoking is prohibited in this building.",
     "en3": "",
@@ -3216,7 +2160,7 @@
     "vn1": "(Verb (past participle)) Bị cấm"
   },
   {
-    "id": 402,
+    "id": 270,
     "en1": "publication",
     "en2": "The publication of the book was a success.",
     "en3": "",
@@ -3224,7 +2168,7 @@
     "vn1": "(Noun) Sự xuất bản"
   },
   {
-    "id": 403,
+    "id": 271,
     "en1": "quotation",
     "en2": "The essay includes quotations from famous authors.",
     "en3": "",
@@ -3232,23 +2176,7 @@
     "vn1": "(Noun) Trích dẫn"
   },
   {
-    "id": 404,
-    "en1": "release",
-    "en2": "The new movie will be released next week.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb/Noun) Phát hành/sự phát hành"
-  },
-  {
-    "id": 405,
-    "en1": "reverse",
-    "en2": "Reverse the car.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb/Adjective) Đảo ngược/ngược lại"
-  },
-  {
-    "id": 406,
+    "id": 272,
     "en1": "simulation",
     "en2": "The flight simulator was realistic.",
     "en3": "",
@@ -3256,7 +2184,7 @@
     "vn1": "(Noun) Mô phỏng"
   },
   {
-    "id": 407,
+    "id": 273,
     "en1": "solely",
     "en2": "The decision was made solely by the manager.",
     "en3": "",
@@ -3264,7 +2192,7 @@
     "vn1": "(Adverb) Chỉ, duy nhất"
   },
   {
-    "id": 408,
+    "id": 274,
     "en1": "somewhat",
     "en2": "The movie was somewhat boring.",
     "en3": "",
@@ -3272,15 +2200,7 @@
     "vn1": "(Adverb) Khá, hơi"
   },
   {
-    "id": 409,
-    "en1": "submitted",
-    "en2": "The application was submitted on time.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb (past participle)) Nộp"
-  },
-  {
-    "id": 410,
+    "id": 275,
     "en1": "successive",
     "en2": "There were three successive days of rain.",
     "en3": "",
@@ -3288,7 +2208,7 @@
     "vn1": "(Adjective) Liên tiếp"
   },
   {
-    "id": 411,
+    "id": 276,
     "en1": "survive",
     "en2": "The plant survived the winter.",
     "en3": "",
@@ -3296,7 +2216,7 @@
     "vn1": "(Verb) Sống sót"
   },
   {
-    "id": 412,
+    "id": 277,
     "en1": "thesis",
     "en2": "She wrote a thesis on climate change.",
     "en3": "",
@@ -3304,15 +2224,7 @@
     "vn1": "(Noun) Luận văn"
   },
   {
-    "id": 413,
-    "en1": "topic",
-    "en2": "The topic of the discussion was politics.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Chủ đề"
-  },
-  {
-    "id": 414,
+    "id": 278,
     "en1": "transmission",
     "en2": "The transmission of the disease is through the air.",
     "en3": "",
@@ -3320,7 +2232,7 @@
     "vn1": "(Noun) Sự truyền tải"
   },
   {
-    "id": 415,
+    "id": 279,
     "en1": "ultimately",
     "en2": "Ultimately, the decision is yours.",
     "en3": "",
@@ -3328,7 +2240,7 @@
     "vn1": "(Adverb) Cuối cùng"
   },
   {
-    "id": 416,
+    "id": 280,
     "en1": "unique",
     "en2": "He has a unique talent.",
     "en3": "",
@@ -3336,7 +2248,7 @@
     "vn1": "(Adjective) Duy nhất"
   },
   {
-    "id": 417,
+    "id": 281,
     "en1": "visible",
     "en2": "The stars are visible on a clear night.",
     "en3": "",
@@ -3344,7 +2256,7 @@
     "vn1": "(Adjective) Có thể nhìn thấy"
   },
   {
-    "id": 418,
+    "id": 282,
     "en1": "voluntary",
     "en2": "The organization relies on volunteers.",
     "en3": "",
@@ -3352,7 +2264,7 @@
     "vn1": "(Adjective) Tình nguyện"
   },
   {
-    "id": 419,
+    "id": 283,
     "en1": "ideology",
     "en2": "The ideology of communism has influenced many countries",
     "en3": "",
@@ -3360,15 +2272,7 @@
     "vn1": "(Noun) Tư tưởng, hệ tư tưởng"
   },
   {
-    "id": 420,
-    "en1": "abandon",
-    "en2": "The ship was abandoned at sea.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb) Bỏ rơi, từ bỏ"
-  },
-  {
-    "id": 421,
+    "id": 284,
     "en1": "accompanied",
     "en2": "The singer was accompanied by a pianist.",
     "en3": "",
@@ -3376,7 +2280,7 @@
     "vn1": "(Verb (past participle)) Đi cùng, kèm theo"
   },
   {
-    "id": 422,
+    "id": 285,
     "en1": "accumulation",
     "en2": "The accumulation of snow caused traffic problems.",
     "en3": "",
@@ -3384,15 +2288,7 @@
     "vn1": "(Noun) Sự tích lũy"
   },
   {
-    "id": 423,
-    "en1": "ambiguous",
-    "en2": "The meaning of the sentence is ambiguous.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Mơ hồ"
-  },
-  {
-    "id": 424,
+    "id": 286,
     "en1": "appendix",
     "en2": "The appendix contains additional information.",
     "en3": "",
@@ -3400,7 +2296,7 @@
     "vn1": "(Noun) Phụ lục"
   },
   {
-    "id": 425,
+    "id": 287,
     "en1": "appreciation",
     "en2": "I have a deep appreciation for art.",
     "en3": "",
@@ -3408,7 +2304,7 @@
     "vn1": "(Noun) Sự đánh giá cao, cảm kích"
   },
   {
-    "id": 426,
+    "id": 288,
     "en1": "arbitrary",
     "en2": "The decision was arbitrary.",
     "en3": "",
@@ -3416,15 +2312,7 @@
     "vn1": "(Adjective) Tùy ý, không có lý do rõ ràng"
   },
   {
-    "id": 427,
-    "en1": "automatically",
-    "en2": "The doors open automatically.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adverb) Tự động"
-  },
-  {
-    "id": 428,
+    "id": 289,
     "en1": "bias",
     "en2": "The journalist has a bias against the politician.",
     "en3": "",
@@ -3432,15 +2320,7 @@
     "vn1": "(Noun) Định kiến"
   },
   {
-    "id": 429,
-    "en1": "chart",
-    "en2": "The chart shows the sales figures.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Biểu đồ/lập biểu đồ"
-  },
-  {
-    "id": 430,
+    "id": 290,
     "en1": "clarity",
     "en2": "The explanation was lacking in clarity.",
     "en3": "",
@@ -3448,7 +2328,7 @@
     "vn1": "(Noun) Sự rõ ràng"
   },
   {
-    "id": 431,
+    "id": 291,
     "en1": "conformity",
     "en2": "The need to conform to social norms.",
     "en3": "",
@@ -3456,7 +2336,7 @@
     "vn1": "(Noun) Sự phù hợp"
   },
   {
-    "id": 432,
+    "id": 292,
     "en1": "commodity",
     "en2": "Oil is a valuable commodity.",
     "en3": "",
@@ -3464,7 +2344,7 @@
     "vn1": "(Noun) Hàng hóa"
   },
   {
-    "id": 433,
+    "id": 293,
     "en1": "complement",
     "en2": "The wine complements the food perfectly.",
     "en3": "",
@@ -3472,7 +2352,7 @@
     "vn1": "(Verb/Noun) Bổ sung/sự bổ sung"
   },
   {
-    "id": 434,
+    "id": 294,
     "en1": "contemporary",
     "en2": "Contemporary art is on display at the museum.",
     "en3": "",
@@ -3480,7 +2360,7 @@
     "vn1": "(Adjective) Hiện đại, đương thời"
   },
   {
-    "id": 435,
+    "id": 295,
     "en1": "contradiction",
     "en2": "There is a contradiction between the two statements.",
     "en3": "",
@@ -3488,23 +2368,7 @@
     "vn1": "(Noun) Sự mâu thuẫn"
   },
   {
-    "id": 436,
-    "en1": "crucial",
-    "en2": "This is a crucial decision.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Quan trọng"
-  },
-  {
-    "id": 437,
-    "en1": "currency",
-    "en2": "The exchange rate between the two currencies is high.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Tiền tệ"
-  },
-  {
-    "id": 438,
+    "id": 296,
     "en1": "denote",
     "en2": "The symbol * denotes multiplication.",
     "en3": "",
@@ -3512,7 +2376,7 @@
     "vn1": "(Verb) Biểu thị"
   },
   {
-    "id": 439,
+    "id": 297,
     "en1": "detected",
     "en2": "The problem was detected early.",
     "en3": "",
@@ -3520,7 +2384,7 @@
     "vn1": "(Verb (past participle)) Được phát hiện"
   },
   {
-    "id": 440,
+    "id": 298,
     "en1": "deviation",
     "en2": "There was a deviation from the original plan.",
     "en3": "",
@@ -3528,7 +2392,7 @@
     "vn1": "(Noun) Sự lệch lạc"
   },
   {
-    "id": 441,
+    "id": 299,
     "en1": "displacement",
     "en2": "The war caused mass displacement of people.",
     "en3": "",
@@ -3536,7 +2400,7 @@
     "vn1": "(Noun) Sự di chuyển, sự thay thế"
   },
   {
-    "id": 442,
+    "id": 300,
     "en1": "dramatic",
     "en2": "There has been a dramatic increase in prices.",
     "en3": "",
@@ -3544,15 +2408,7 @@
     "vn1": "(Adjective) Kịch tính, ấn tượng"
   },
   {
-    "id": 443,
-    "en1": "eventually",
-    "en2": "Eventually, he achieved his goal.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adverb) Cuối cùng"
-  },
-  {
-    "id": 444,
+    "id": 301,
     "en1": "exhibit",
     "en2": "The museum exhibits a collection of paintings.",
     "en3": "",
@@ -3560,7 +2416,7 @@
     "vn1": "(Verb/Noun) Trưng bày/cuộc triển lãm"
   },
   {
-    "id": 445,
+    "id": 302,
     "en1": "exploitation",
     "en2": "The exploitation of natural resources.",
     "en3": "",
@@ -3568,7 +2424,7 @@
     "vn1": "(Noun) Sự khai thác, lợi dụng"
   },
   {
-    "id": 446,
+    "id": 303,
     "en1": "fluctuations",
     "en2": "There have been fluctuations in the stock market.",
     "en3": "",
@@ -3576,15 +2432,7 @@
     "vn1": "(Noun (plural)) Sự biến động"
   },
   {
-    "id": 447,
-    "en1": "guidelines",
-    "en2": "The guidelines for the project are clear.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun (plural)) Hướng dẫn"
-  },
-  {
-    "id": 448,
+    "id": 304,
     "en1": "highlighted",
     "en2": "The report highlighted the problem.",
     "en3": "",
@@ -3592,7 +2440,7 @@
     "vn1": "(Verb (past participle)) Được nhấn mạnh"
   },
   {
-    "id": 449,
+    "id": 305,
     "en1": "implicit",
     "en2": "There was an implicit understanding between them.",
     "en3": "",
@@ -3600,7 +2448,7 @@
     "vn1": "(Adjective) Ngầm hiểu"
   },
   {
-    "id": 450,
+    "id": 306,
     "en1": "induced",
     "en2": "The medicine induced sleep.",
     "en3": "",
@@ -3608,7 +2456,7 @@
     "vn1": "(Verb (past participle)) Được gây ra"
   },
   {
-    "id": 451,
+    "id": 307,
     "en1": "inevitably",
     "en2": "Inevitably, the project will be delayed.",
     "en3": "",
@@ -3616,7 +2464,7 @@
     "vn1": "(Adverb) Không thể tránh khỏi"
   },
   {
-    "id": 452,
+    "id": 308,
     "en1": "infrastructure",
     "en2": "The country's infrastructure needs improvement.",
     "en3": "",
@@ -3624,7 +2472,7 @@
     "vn1": "(Noun) Cơ sở hạ tầng"
   },
   {
-    "id": 453,
+    "id": 309,
     "en1": "inspection",
     "en2": "The car passed the inspection.",
     "en3": "",
@@ -3632,7 +2480,7 @@
     "vn1": "(Noun) Sự kiểm tra"
   },
   {
-    "id": 454,
+    "id": 310,
     "en1": "intensity",
     "en2": "The intensity of the earthquake was high.",
     "en3": "",
@@ -3640,7 +2488,7 @@
     "vn1": "(Noun) Cường độ"
   },
   {
-    "id": 455,
+    "id": 311,
     "en1": "manipulation",
     "en2": "The politician was accused of manipulation.",
     "en3": "",
@@ -3648,7 +2496,7 @@
     "vn1": "(Noun) Sự thao túng"
   },
   {
-    "id": 456,
+    "id": 312,
     "en1": "minimized",
     "en2": "Costs were minimized by using cheaper materials.",
     "en3": "",
@@ -3656,15 +2504,7 @@
     "vn1": "(Verb (past participle)) Được giảm thiểu"
   },
   {
-    "id": 457,
-    "en1": "nuclear",
-    "en2": "Nuclear energy is a controversial topic.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Hạt nhân"
-  },
-  {
-    "id": 458,
+    "id": 313,
     "en1": "offset",
     "en2": "The increase in costs was offset by higher profits.",
     "en3": "",
@@ -3672,23 +2512,7 @@
     "vn1": "(Verb/Noun) Bù đắp/sự bù đắp"
   },
   {
-    "id": 459,
-    "en1": "paragraph",
-    "en2": "The paragraph is too long.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Đoạn văn"
-  },
-  {
-    "id": 460,
-    "en1": "plus",
-    "en2": "Two plus two equals four.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Preposition/Conjunction) Cộng với/cộng thêm"
-  },
-  {
-    "id": 461,
+    "id": 314,
     "en1": "practitioners",
     "en2": "Medical practitioners are concerned about the new virus.",
     "en3": "",
@@ -3696,7 +2520,7 @@
     "vn1": "(Noun (plural)) Người hành nghề"
   },
   {
-    "id": 462,
+    "id": 315,
     "en1": "predominantly",
     "en2": "The population is predominantly young.",
     "en3": "",
@@ -3704,7 +2528,7 @@
     "vn1": "(Adverb) Chủ yếu"
   },
   {
-    "id": 463,
+    "id": 316,
     "en1": "prospect",
     "en2": "The job prospects for graduates are good.",
     "en3": "",
@@ -3712,7 +2536,7 @@
     "vn1": "(Noun) Triển vọng"
   },
   {
-    "id": 464,
+    "id": 317,
     "en1": "radical",
     "en2": "He has radical ideas.",
     "en3": "",
@@ -3720,15 +2544,7 @@
     "vn1": "(Adjective) Cấp tiến, cực đoan"
   },
   {
-    "id": 465,
-    "en1": "random",
-    "en2": "The selection was random.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Ngẫu nhiên"
-  },
-  {
-    "id": 466,
+    "id": 318,
     "en1": "reinforced",
     "en2": "The building was reinforced with steel.",
     "en3": "",
@@ -3736,7 +2552,7 @@
     "vn1": "(Verb (past participle)) Được tăng cường"
   },
   {
-    "id": 467,
+    "id": 319,
     "en1": "restore",
     "en2": "The painting was restored to its original condition.",
     "en3": "",
@@ -3744,7 +2560,7 @@
     "vn1": "(Verb) Khôi phục"
   },
   {
-    "id": 468,
+    "id": 320,
     "en1": "revision",
     "en2": "The book is in its second revision.",
     "en3": "",
@@ -3752,15 +2568,7 @@
     "vn1": "(Noun) Sự sửa đổi"
   },
   {
-    "id": 469,
-    "en1": "schedule",
-    "en2": "The meeting is scheduled for tomorrow.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun/Verb) Lịch trình/lên lịch"
-  },
-  {
-    "id": 470,
+    "id": 321,
     "en1": "tension",
     "en2": "There is tension between the two countries.",
     "en3": "",
@@ -3768,7 +2576,7 @@
     "vn1": "(Noun) Sự căng thẳng"
   },
   {
-    "id": 471,
+    "id": 322,
     "en1": "termination",
     "en2": "The termination of the contract was unexpected.",
     "en3": "",
@@ -3776,7 +2584,7 @@
     "vn1": "(Noun) Sự chấm dứt"
   },
   {
-    "id": 472,
+    "id": 323,
     "en1": "theme",
     "en2": "The theme of the party is the 1920s.",
     "en3": "",
@@ -3784,7 +2592,7 @@
     "vn1": "(Noun) Chủ đề"
   },
   {
-    "id": 473,
+    "id": 324,
     "en1": "thereby",
     "en2": "He studied hard, thereby achieving good grades.",
     "en3": "",
@@ -3792,31 +2600,7 @@
     "vn1": "(Adverb) Do đó"
   },
   {
-    "id": 474,
-    "en1": "uniform",
-    "en2": "The soldiers wore uniform clothes.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective/Noun) Đồng đều/đồng phục"
-  },
-  {
-    "id": 475,
-    "en1": "vehicle",
-    "en2": "Cars are the most common type of vehicle.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Phương tiện giao thông"
-  },
-  {
-    "id": 476,
-    "en1": "via",
-    "en2": "I sent the email via the internet.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Preposition) Qua, thông qua"
-  },
-  {
-    "id": 477,
+    "id": 325,
     "en1": "virtually",
     "en2": "The two situations are virtually identical.",
     "en3": "",
@@ -3824,7 +2608,7 @@
     "vn1": "(Adverb) Hầu như, gần như"
   },
   {
-    "id": 478,
+    "id": 326,
     "en1": "widespread",
     "en2": "There is widespread support for the project.",
     "en3": "",
@@ -3832,7 +2616,7 @@
     "vn1": "(Adjective) Phổ biến"
   },
   {
-    "id": 479,
+    "id": 327,
     "en1": "visual",
     "en2": "The presentation was visually appealing.",
     "en3": "",
@@ -3840,7 +2624,7 @@
     "vn1": "(Adjective) Thị giác"
   },
   {
-    "id": 480,
+    "id": 328,
     "en1": "accommodation",
     "en2": "The hotel offers comfortable accommodation.",
     "en3": "",
@@ -3848,7 +2632,7 @@
     "vn1": "(Noun) Chỗ ở, chỗ nghỉ"
   },
   {
-    "id": 481,
+    "id": 329,
     "en1": "analogous",
     "en2": "The two situations are analogous.",
     "en3": "",
@@ -3856,7 +2640,7 @@
     "vn1": "(Adjective) Tương tự"
   },
   {
-    "id": 482,
+    "id": 330,
     "en1": "anticipated",
     "en2": "The meeting was anticipated to be long.",
     "en3": "",
@@ -3864,7 +2648,7 @@
     "vn1": "(Verb (past participle)) Được dự đoán"
   },
   {
-    "id": 483,
+    "id": 331,
     "en1": "assurance",
     "en2": "He gave me his assurance that he would help.",
     "en3": "",
@@ -3872,7 +2656,7 @@
     "vn1": "(Noun) Sự đảm bảo"
   },
   {
-    "id": 484,
+    "id": 332,
     "en1": "attained",
     "en2": "She attained her goal of becoming a doctor.",
     "en3": "",
@@ -3880,7 +2664,7 @@
     "vn1": "(Verb (past participle)) Đạt được"
   },
   {
-    "id": 485,
+    "id": 333,
     "en1": "behalf",
     "en2": "I am writing on behalf of my company.",
     "en3": "",
@@ -3888,7 +2672,7 @@
     "vn1": "(Noun) Thay mặt"
   },
   {
-    "id": 486,
+    "id": 334,
     "en1": "bulk",
     "en2": "The bulk of the work is finished.",
     "en3": "",
@@ -3896,7 +2680,7 @@
     "vn1": "(Noun) Khối lượng lớn"
   },
   {
-    "id": 487,
+    "id": 335,
     "en1": "ceases",
     "en2": "The rain has ceased.",
     "en3": "",
@@ -3904,7 +2688,7 @@
     "vn1": "(Verb (3rd person singular)) Ngừng"
   },
   {
-    "id": 488,
+    "id": 336,
     "en1": "coherence",
     "en2": "The essay lacks coherence.",
     "en3": "",
@@ -3912,7 +2696,7 @@
     "vn1": "(Noun) Sự mạch lạc"
   },
   {
-    "id": 489,
+    "id": 337,
     "en1": "coincide",
     "en2": "The meeting coincided with my birthday.",
     "en3": "",
@@ -3920,7 +2704,7 @@
     "vn1": "(Verb) Trùng hợp"
   },
   {
-    "id": 490,
+    "id": 338,
     "en1": "commenced",
     "en2": "The meeting commenced at 9 am.",
     "en3": "",
@@ -3928,7 +2712,7 @@
     "vn1": "(Verb (past participle)) Bắt đầu"
   },
   {
-    "id": 491,
+    "id": 339,
     "en1": "incompatible",
     "en2": "The two ideas are incompatible.",
     "en3": "",
@@ -3936,7 +2720,7 @@
     "vn1": "(Adjective) Không tương thích"
   },
   {
-    "id": 492,
+    "id": 340,
     "en1": "concurrent",
     "en2": "The two events occurred concurrently.",
     "en3": "",
@@ -3944,7 +2728,7 @@
     "vn1": "(Adjective) Đồng thời"
   },
   {
-    "id": 493,
+    "id": 341,
     "en1": "confined",
     "en2": "He was confined to his room.",
     "en3": "",
@@ -3952,7 +2736,7 @@
     "vn1": "(Verb (past participle)) Bị giam giữ, hạn chế"
   },
   {
-    "id": 494,
+    "id": 342,
     "en1": "controversy",
     "en2": "The issue caused a lot of controversy.",
     "en3": "",
@@ -3960,7 +2744,7 @@
     "vn1": "(Noun) Cuộc tranh luận"
   },
   {
-    "id": 495,
+    "id": 343,
     "en1": "conversely",
     "en2": "Conversely, some people disagree.",
     "en3": "",
@@ -3968,7 +2752,7 @@
     "vn1": "(Adverb) Ngược lại"
   },
   {
-    "id": 496,
+    "id": 344,
     "en1": "device",
     "en2": "This electronic device is very useful.",
     "en3": "",
@@ -3976,7 +2760,7 @@
     "vn1": "(Noun) Thiết bị"
   },
   {
-    "id": 497,
+    "id": 345,
     "en1": "devoted",
     "en2": "She is devoted to her children.",
     "en3": "",
@@ -3984,7 +2768,7 @@
     "vn1": "(Adjective) Tận tâm"
   },
   {
-    "id": 498,
+    "id": 346,
     "en1": "diminished",
     "en2": "The problem has diminished over time.",
     "en3": "",
@@ -3992,7 +2776,7 @@
     "vn1": "(Verb (past participle)) Giảm đi"
   },
   {
-    "id": 499,
+    "id": 347,
     "en1": "distorted",
     "en2": "The picture is distorted.",
     "en3": "",
@@ -4000,7 +2784,7 @@
     "vn1": "(Verb (past participle)) Bị bóp méo"
   },
   {
-    "id": 500,
+    "id": 348,
     "en1": "duration",
     "en2": "The duration of the flight is three hours.",
     "en3": "",
@@ -4008,7 +2792,7 @@
     "vn1": "(Noun) Thời gian"
   },
   {
-    "id": 501,
+    "id": 349,
     "en1": "erosion",
     "en2": "Soil erosion is a problem in many areas.",
     "en3": "",
@@ -4016,7 +2800,7 @@
     "vn1": "(Noun) Sự xói mòn"
   },
   {
-    "id": 502,
+    "id": 350,
     "en1": "ethical",
     "en2": "It is not ethical to treat animals that way.",
     "en3": "",
@@ -4024,7 +2808,7 @@
     "vn1": "(Adjective) Đạo đức"
   },
   {
-    "id": 503,
+    "id": 351,
     "en1": "format",
     "en2": "The report should follow this format.",
     "en3": "",
@@ -4032,7 +2816,7 @@
     "vn1": "(Noun) Định dạng"
   },
   {
-    "id": 504,
+    "id": 352,
     "en1": "founded",
     "en2": "The university was founded in 1850.",
     "en3": "",
@@ -4040,7 +2824,7 @@
     "vn1": "(Verb (past participle)) Được thành lập"
   },
   {
-    "id": 505,
+    "id": 353,
     "en1": "inherent",
     "en2": "There are inherent risks in any business.",
     "en3": "",
@@ -4048,7 +2832,7 @@
     "vn1": "(Adjective) Tầm thường"
   },
   {
-    "id": 506,
+    "id": 354,
     "en1": "insights",
     "en2": "The report provides valuable insights.",
     "en3": "",
@@ -4056,7 +2840,7 @@
     "vn1": "(Noun (plural)) Những hiểu biết sâu sắc"
   },
   {
-    "id": 507,
+    "id": 355,
     "en1": "integral",
     "en2": "He is an integral part of the team.",
     "en3": "",
@@ -4064,7 +2848,7 @@
     "vn1": "(Adjective) Cần thiết"
   },
   {
-    "id": 508,
+    "id": 356,
     "en1": "intermediate",
     "en2": "This is an intermediate level course.",
     "en3": "",
@@ -4072,15 +2856,7 @@
     "vn1": "(Adjective) Trung gian"
   },
   {
-    "id": 509,
-    "en1": "manual",
-    "en2": "The car has a manual transmission.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective/Noun) Thủ công/sổ tay"
-  },
-  {
-    "id": 510,
+    "id": 357,
     "en1": "mature",
     "en2": "She is a mature young woman.",
     "en3": "",
@@ -4088,7 +2864,7 @@
     "vn1": "(Adjective) Trưởng thành"
   },
   {
-    "id": 511,
+    "id": 358,
     "en1": "mediation",
     "en2": "The dispute was settled through mediation.",
     "en3": "",
@@ -4096,7 +2872,7 @@
     "vn1": "(Noun) Sự hòa giải"
   },
   {
-    "id": 512,
+    "id": 359,
     "en1": "medium",
     "en2": "Television is a popular medium.",
     "en3": "",
@@ -4104,7 +2880,7 @@
     "vn1": "(Noun/Adjective) Phương tiện/trung bình"
   },
   {
-    "id": 513,
+    "id": 360,
     "en1": "military",
     "en2": "The military is involved in the conflict.",
     "en3": "",
@@ -4112,7 +2888,7 @@
     "vn1": "(Adjective/Noun) Quân sự/quân đội"
   },
   {
-    "id": 514,
+    "id": 361,
     "en1": "minimal",
     "en2": "The changes were minimal.",
     "en3": "",
@@ -4120,7 +2896,7 @@
     "vn1": "(Adjective) Tối thiểu"
   },
   {
-    "id": 515,
+    "id": 362,
     "en1": "mutual",
     "en2": "They have a mutual respect for each other.",
     "en3": "",
@@ -4128,7 +2904,7 @@
     "vn1": "(Adjective) Lẫn nhau, chung"
   },
   {
-    "id": 516,
+    "id": 363,
     "en1": "norms",
     "en2": "Social norms change over time.",
     "en3": "",
@@ -4136,7 +2912,7 @@
     "vn1": "(Noun (plural)) Quy tắc, chuẩn mực"
   },
   {
-    "id": 517,
+    "id": 364,
     "en1": "overlap",
     "en2": "The two circles overlap.",
     "en3": "",
@@ -4144,7 +2920,7 @@
     "vn1": "(Verb/Noun) Chồng chéo/sự chồng chéo"
   },
   {
-    "id": 518,
+    "id": 365,
     "en1": "passive",
     "en2": "He took a passive role in the discussion.",
     "en3": "",
@@ -4152,7 +2928,7 @@
     "vn1": "(Adjective) Thụ động"
   },
   {
-    "id": 519,
+    "id": 366,
     "en1": "portion",
     "en2": "A small portion of the population.",
     "en3": "",
@@ -4160,7 +2936,7 @@
     "vn1": "(Noun) Phần, phần chia"
   },
   {
-    "id": 520,
+    "id": 367,
     "en1": "preliminary",
     "en2": "This is a preliminary report.",
     "en3": "",
@@ -4168,7 +2944,7 @@
     "vn1": "(Adjective) Sơ bộ"
   },
   {
-    "id": 521,
+    "id": 368,
     "en1": "protocol",
     "en2": "Diplomatic protocol must be followed.",
     "en3": "",
@@ -4176,7 +2952,7 @@
     "vn1": "(Noun) Nghị định thư, giao thức"
   },
   {
-    "id": 522,
+    "id": 369,
     "en1": "qualitative",
     "en2": "Qualitative research is based on observation.",
     "en3": "",
@@ -4184,7 +2960,7 @@
     "vn1": "(Adjective) Chất lượng"
   },
   {
-    "id": 523,
+    "id": 370,
     "en1": "refine",
     "en2": "The product has been refined over the years.",
     "en3": "",
@@ -4192,15 +2968,7 @@
     "vn1": "(Verb) Tinh chế, cải tiến"
   },
   {
-    "id": 524,
-    "en1": "relaxed",
-    "en2": "She is relaxed and easygoing.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Thư giãn, thoải mái"
-  },
-  {
-    "id": 525,
+    "id": 371,
     "en1": "restraints",
     "en2": "There are restraints on government spending.",
     "en3": "",
@@ -4208,7 +2976,7 @@
     "vn1": "(Noun (plural)) Sự hạn chế"
   },
   {
-    "id": 526,
+    "id": 372,
     "en1": "revolution",
     "en2": "The French Revolution.",
     "en3": "",
@@ -4216,7 +2984,7 @@
     "vn1": "(Noun) Cách mạng"
   },
   {
-    "id": 527,
+    "id": 373,
     "en1": "rigid",
     "en2": "He has a rigid attitude.",
     "en3": "",
@@ -4224,7 +2992,7 @@
     "vn1": "(Adjective) Cứng nhắc"
   },
   {
-    "id": 528,
+    "id": 374,
     "en1": "route",
     "en2": "The best route to take is through the city center.",
     "en3": "",
@@ -4232,7 +3000,7 @@
     "vn1": "(Noun) Đường đi, tuyến đường"
   },
   {
-    "id": 529,
+    "id": 375,
     "en1": "scenario",
     "en2": "The worst-case scenario is a disaster.",
     "en3": "",
@@ -4240,7 +3008,7 @@
     "vn1": "(Noun) Tình huống"
   },
   {
-    "id": 530,
+    "id": 376,
     "en1": "sphere",
     "en2": "The social sphere is important.",
     "en3": "",
@@ -4248,7 +3016,7 @@
     "vn1": "(Noun) Lĩnh vực, quả cầu"
   },
   {
-    "id": 531,
+    "id": 377,
     "en1": "subordinate",
     "en2": "She is subordinate to the manager.",
     "en3": "",
@@ -4256,7 +3024,7 @@
     "vn1": "(Adjective/Noun) Phụ thuộc, cấp dưới"
   },
   {
-    "id": 532,
+    "id": 378,
     "en1": "supplementary",
     "en2": "The course offers supplementary materials.",
     "en3": "",
@@ -4264,7 +3032,7 @@
     "vn1": "(Adjective) Bổ sung"
   },
   {
-    "id": 533,
+    "id": 379,
     "en1": "suspended",
     "en2": "The game was suspended due to rain.",
     "en3": "",
@@ -4272,15 +3040,7 @@
     "vn1": "(Verb (past participle)) Bị đình chỉ"
   },
   {
-    "id": 534,
-    "en1": "team",
-    "en2": "The team won the championship.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Đội"
-  },
-  {
-    "id": 535,
+    "id": 380,
     "en1": "temporary",
     "en2": "This is a temporary solution.",
     "en3": "",
@@ -4288,7 +3048,7 @@
     "vn1": "(Adjective) Tạm thời"
   },
   {
-    "id": 536,
+    "id": 381,
     "en1": "trigger",
     "en2": "The event triggered a chain of reactions.",
     "en3": "",
@@ -4296,7 +3056,7 @@
     "vn1": "(Verb/Noun) Kích hoạt/cái kích hoạt"
   },
   {
-    "id": 537,
+    "id": 382,
     "en1": "unified",
     "en2": "The country is a unified nation.",
     "en3": "",
@@ -4304,7 +3064,7 @@
     "vn1": "(Adjective) Thống nhất"
   },
   {
-    "id": 538,
+    "id": 383,
     "en1": "violation",
     "en2": "The company was fined for a violation of safety regulations.",
     "en3": "",
@@ -4312,7 +3072,7 @@
     "vn1": "(Noun) Sự vi phạm"
   },
   {
-    "id": 539,
+    "id": 384,
     "en1": "vision",
     "en2": "He has a vision for the future.",
     "en3": "",
@@ -4320,7 +3080,7 @@
     "vn1": "(Noun) Tầm nhìn"
   },
   {
-    "id": 540,
+    "id": 385,
     "en1": "adjacent",
     "en2": "The two houses are adjacent to each other.",
     "en3": "",
@@ -4328,7 +3088,7 @@
     "vn1": "(Adjective) Kề cạnh"
   },
   {
-    "id": 541,
+    "id": 386,
     "en1": "albeit",
     "en2": "He agreed to go, albeit reluctantly.",
     "en3": "",
@@ -4336,7 +3096,7 @@
     "vn1": "(Conjunction) Mặc dù"
   },
   {
-    "id": 542,
+    "id": 387,
     "en1": "assembly",
     "en2": "The assembly of the car took several hours.",
     "en3": "",
@@ -4344,7 +3104,7 @@
     "vn1": "(Noun) Đại hội, lắp ráp"
   },
   {
-    "id": 543,
+    "id": 388,
     "en1": "collapse",
     "en2": "The building collapsed during the earthquake.",
     "en3": "",
@@ -4352,7 +3112,7 @@
     "vn1": "(Verb/Noun) Sụp đổ, sự sụp đổ"
   },
   {
-    "id": 544,
+    "id": 389,
     "en1": "colleagues",
     "en2": "She met with her colleagues for lunch.",
     "en3": "",
@@ -4360,7 +3120,7 @@
     "vn1": "(Noun (plural)) Đồng nghiệp"
   },
   {
-    "id": 545,
+    "id": 390,
     "en1": "compiled",
     "en2": "The data was compiled into a report.",
     "en3": "",
@@ -4368,7 +3128,7 @@
     "vn1": "(Verb (past participle)) Biên soạn"
   },
   {
-    "id": 546,
+    "id": 391,
     "en1": "conceived",
     "en2": "The plan was conceived by the manager.",
     "en3": "",
@@ -4376,7 +3136,7 @@
     "vn1": "(Verb (past participle)) Hình thành, tưởng tượng"
   },
   {
-    "id": 547,
+    "id": 392,
     "en1": "convinced",
     "en2": "I am convinced that he is guilty.",
     "en3": "",
@@ -4384,15 +3144,7 @@
     "vn1": "(Adjective) Chắc chắn, tin tưởng"
   },
   {
-    "id": 548,
-    "en1": "depression",
-    "en2": "The country is in a deep depression.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Noun) Sự suy thoái, trầm cảm"
-  },
-  {
-    "id": 549,
+    "id": 393,
     "en1": "encountered",
     "en2": "We encountered difficulties during the trip.",
     "en3": "",
@@ -4400,7 +3152,7 @@
     "vn1": "(Verb (past participle)) Gặp phải"
   },
   {
-    "id": 550,
+    "id": 394,
     "en1": "enormous",
     "en2": "The building is enormous.",
     "en3": "",
@@ -4408,7 +3160,7 @@
     "vn1": "(Adjective) To lớn"
   },
   {
-    "id": 551,
+    "id": 395,
     "en1": "forthcoming",
     "en2": "The forthcoming meeting will discuss the budget.",
     "en3": "",
@@ -4416,7 +3168,7 @@
     "vn1": "(Adjective) Sắp tới, sẵn lòng"
   },
   {
-    "id": 552,
+    "id": 396,
     "en1": "inclination",
     "en2": "He has an inclination towards music.",
     "en3": "",
@@ -4424,7 +3176,7 @@
     "vn1": "(Noun) Sự nghiêng, khuynh hướng"
   },
   {
-    "id": 553,
+    "id": 397,
     "en1": "integrity",
     "en2": "He is a man of integrity.",
     "en3": "",
@@ -4432,7 +3184,7 @@
     "vn1": "(Noun) Chính trực, toàn vẹn"
   },
   {
-    "id": 554,
+    "id": 398,
     "en1": "intrinsic",
     "en2": "The value of the painting is intrinsic.",
     "en3": "",
@@ -4440,7 +3192,7 @@
     "vn1": "(Adjective) Bản chất, cố hữu"
   },
   {
-    "id": 555,
+    "id": 399,
     "en1": "invoked",
     "en2": "The law was invoked to justify the decision.",
     "en3": "",
@@ -4448,7 +3200,7 @@
     "vn1": "(Verb (past participle)) Được viện dẫn, kêu gọi"
   },
   {
-    "id": 556,
+    "id": 400,
     "en1": "levy",
     "en2": "The government levied a new tax.",
     "en3": "",
@@ -4456,7 +3208,7 @@
     "vn1": "(Verb/Noun) Thu thuế/thuế"
   },
   {
-    "id": 557,
+    "id": 401,
     "en1": "likewise",
     "en2": "She enjoys swimming, and likewise her brother.",
     "en3": "",
@@ -4464,7 +3216,7 @@
     "vn1": "(Adverb) Tương tự"
   },
   {
-    "id": 558,
+    "id": 402,
     "en1": "nonetheless",
     "en2": "The weather was bad, nonetheless, we went for a walk.",
     "en3": "",
@@ -4472,7 +3224,7 @@
     "vn1": "(Adverb) Tuy nhiên"
   },
   {
-    "id": 559,
+    "id": 403,
     "en1": "notwithstanding",
     "en2": "Notwithstanding the difficulties, we continued the project.",
     "en3": "",
@@ -4480,7 +3232,7 @@
     "vn1": "(Preposition/Conjunction) Mặc dù"
   },
   {
-    "id": 560,
+    "id": 404,
     "en1": "odd",
     "en2": "That's an odd question.",
     "en3": "",
@@ -4488,7 +3240,7 @@
     "vn1": "(Adjective) Lẻ, kỳ lạ"
   },
   {
-    "id": 561,
+    "id": 405,
     "en1": "ongoing",
     "en2": "The investigation is ongoing.",
     "en3": "",
@@ -4496,7 +3248,7 @@
     "vn1": "(Adjective) Đang diễn ra"
   },
   {
-    "id": 562,
+    "id": 406,
     "en1": "panel",
     "en2": "The panel of judges selected the winner.",
     "en3": "",
@@ -4504,15 +3256,7 @@
     "vn1": "(Noun) Ban giám khảo, tấm bảng"
   },
   {
-    "id": 563,
-    "en1": "persistent",
-    "en2": "She was persistent in her efforts.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Adjective) Kiên trì"
-  },
-  {
-    "id": 564,
+    "id": 407,
     "en1": "posed",
     "en2": "The question posed a challenge.",
     "en3": "",
@@ -4520,7 +3264,7 @@
     "vn1": "(Verb (past participle)) Đặt ra"
   },
   {
-    "id": 565,
+    "id": 408,
     "en1": "reluctant",
     "en2": "She was reluctant to leave.",
     "en3": "",
@@ -4528,7 +3272,7 @@
     "vn1": "(Adjective) Miễn cưỡng"
   },
   {
-    "id": 566,
+    "id": 409,
     "en1": "so-called",
     "en2": "The so-called expert was wrong.",
     "en3": "",
@@ -4536,7 +3280,7 @@
     "vn1": "(Adjective) Được gọi là"
   },
   {
-    "id": 567,
+    "id": 410,
     "en1": "straightforward",
     "en2": "The instructions were straightforward.",
     "en3": "",
@@ -4544,15 +3288,7 @@
     "vn1": "(Adjective) Thẳng thắn, đơn giản"
   },
   {
-    "id": 568,
-    "en1": "undergo",
-    "en2": "The patient underwent surgery.",
-    "en3": "",
-    "en4": "B2",
-    "vn1": "(Verb) Trải qua"
-  },
-  {
-    "id": 569,
+    "id": 411,
     "en1": "whereby",
     "en2": "This is a system whereby employees can choose their own hours.",
     "en3": "",
