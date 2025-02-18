@@ -24,6 +24,7 @@ const (
 )
 
 type Paragraph struct {
+	En1 string `json:"en1"`
 	En2 string `json:"en2"`
 	Vn1 string `json:"vn1"`
 }
@@ -58,6 +59,7 @@ func main() {
 
 		text := paragraphs[index].En2
 		mean := paragraphs[index].Vn1
+		word := paragraphs[index].En1
 		input := ""
 
 		clearScreen()
@@ -103,7 +105,7 @@ func main() {
 			printText(text, input)
 
 			if input == text {
-				fmt.Printf("Congratulations! It is %s\n", mean)
+				fmt.Printf("Congratulations! (%s: %s)\n", word, mean)
 				fmt.Printf("%v sentences left\n", len(paragraphs)-len(usedIndices))
 				CopyToClipboard(`"` + text + `"`)
 				speak(text)
