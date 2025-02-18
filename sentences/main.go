@@ -102,11 +102,15 @@ func main() {
 			if utf8.RuneCountInString(input) < utf8.RuneCountInString(text) && rune(text[utf8.RuneCountInString(input)]) == char {
 				input += string(char)
 			} else {
-				items := strings.Split(input, " ")
-				if len(items) > 1 {
-					input = strings.Join(items[:len(items)-1], " ") + " "
+				fc := string(rune(text[utf8.RuneCountInString(input)]))
+				if fc == "." || fc == "," || fc == "'" {
 				} else {
-					input = ""
+					items := strings.Split(input, " ")
+					if len(items) > 1 {
+						input = strings.Join(items[:len(items)-1], " ") + " "
+					} else {
+						input = ""
+					}
 				}
 			}
 
