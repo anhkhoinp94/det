@@ -19,9 +19,12 @@ import (
 
 const (
 	white  = "\033[38;5;237m"
+	black  = "\033[38;5;232m"
 	yellow = "\033[33m"
 	reset  = "\033[0m"
 )
+
+var hiddenColor = black
 
 type Paragraph struct {
 	En1 string `json:"en1"`
@@ -61,6 +64,7 @@ func main() {
 		mean := paragraphs[index].Vn1
 		word := paragraphs[index].En1
 		input := ""
+		hiddenColor = black
 
 		clearScreen()
 		printText(text, input)
@@ -69,12 +73,13 @@ func main() {
 			speak(text)
 		}()
 		go func() {
-			time.Sleep(8 * time.Second)
+			time.Sleep(6 * time.Second)
 			speak(text)
 		}()
 		go func() {
-			time.Sleep(16 * time.Second)
+			time.Sleep(12 * time.Second)
 			speak(text)
+			hiddenColor = white
 		}()
 
 		// Set the terminal to raw mode to capture each keystroke
@@ -128,7 +133,7 @@ func printText(text, input string) {
 	boldText := text[:utf8.RuneCountInString(input)]
 	lightText := text[utf8.RuneCountInString(input):]
 
-	fmt.Printf("%s%s%s%s%s\n", yellow, boldText, white, lightText, reset)
+	fmt.Printf("%s%s%s%s%s\n", yellow, boldText, hiddenColor, lightText, reset)
 }
 
 func clearScreen() {
