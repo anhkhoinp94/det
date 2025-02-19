@@ -32,7 +32,8 @@ func main() {
 	// rand.Shuffle(len(paragraphs), func(i, j int) {
 	// 	paragraphs[i], paragraphs[j] = paragraphs[j], paragraphs[i]
 	// })
-	paragraphs = reverseSlice(paragraphs)
+
+	// paragraphs = reverseSlice(paragraphs)
 
 	for i := 0; i < len(paragraphs); i++ {
 		clearScreen()
