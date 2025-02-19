@@ -6,7 +6,14 @@ import (
 	"fmt"
 	"os"
 	"os/exec"
-	"time"
+	"strings"
+)
+
+const (
+	white  = "\033[38;5;237m"
+	black  = "\033[38;5;232m"
+	yellow = "\033[33m"
+	reset  = "\033[0m"
 )
 
 type Paragraph struct {
@@ -14,7 +21,7 @@ type Paragraph struct {
 }
 
 func main() {
-	file, err := os.Open("paragraphs.json")
+	file, err := os.Open("stories.json")
 	if err != nil {
 		fmt.Println("Error opening JSON file:", err)
 		return
@@ -38,13 +45,22 @@ func main() {
 	for i := 0; i < len(paragraphs); i++ {
 		clearScreen()
 		text := paragraphs[i].P
-		fmt.Println(text)
+
+		sentences := strings.Split(text, "\n\n")
+		if len(sentences) > 0 && sentences[len(sentences)-1] == "" {
+			sentences = sentences[:len(sentences)-1]
+		}
+
+		for _, sentence := range sentences {
+			sentence = strings.TrimSpace(sentence)
+			// fmt.Println(sentence)
+			printText(sentence, sentences)
+			speak(sentence)
+			clearScreen()
+		}
+
 		fmt.Printf("%v paragraphs left\n", len(paragraphs)-i-1)
-		time.Sleep(1 * time.Second)
-		speak(text)
-		time.Sleep(1 * time.Second)
-		speak(text)
-		waitForEnter()
+		// waitForEnter()
 	}
 
 	fmt.Println("All paragraphs have been listened. Exiting.")
@@ -58,6 +74,17 @@ func reverseSlice(slice []Paragraph) []Paragraph {
 	return slice
 }
 
+func printText(sentence string, sentences []string) {
+	for s := 0; s < len(sentences); s++ {
+		if strings.Contains(sentences[s], sentence) {
+			fmt.Printf("%s%s%s\n", yellow, sentences[s], reset)
+		} else {
+			fmt.Printf("%s%s%s\n", white, sentences[s], reset)
+		}
+	}
+}
+
+//lint:ignore U1000 This function is used to wait for enter
 func waitForEnter() {
 	reader := bufio.NewReader(os.Stdin)
 	fmt.Print("Press Enter to continue...")
